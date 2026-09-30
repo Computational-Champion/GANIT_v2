@@ -1,0 +1,4048 @@
+NAME UC_G8_T12_S1
+ROWS
+ N OBJ
+ E DEM_0
+ G RES_0
+ L PMAX_0_0
+ G PMIN_0_0
+ E SU_0_0
+ L MUT_0_0
+ L MDT_0_0
+ L PMAX_1_0
+ G PMIN_1_0
+ E SU_1_0
+ L MUT_1_0
+ L MDT_1_0
+ L PMAX_2_0
+ G PMIN_2_0
+ E SU_2_0
+ L MUT_2_0
+ L MDT_2_0
+ L PMAX_3_0
+ G PMIN_3_0
+ E SU_3_0
+ L MUT_3_0
+ L MDT_3_0
+ L PMAX_4_0
+ G PMIN_4_0
+ E SU_4_0
+ L MUT_4_0
+ L MDT_4_0
+ L PMAX_5_0
+ G PMIN_5_0
+ E SU_5_0
+ L MUT_5_0
+ L MDT_5_0
+ L PMAX_6_0
+ G PMIN_6_0
+ E SU_6_0
+ L MUT_6_0
+ L MDT_6_0
+ L PMAX_7_0
+ G PMIN_7_0
+ E SU_7_0
+ L MUT_7_0
+ L MDT_7_0
+ E DEM_1
+ G RES_1
+ L PMAX_0_1
+ G PMIN_0_1
+ E SU_0_1
+ L RU_0_1
+ L RD_0_1
+ L MUT_0_1
+ L MDT_0_1
+ L PMAX_1_1
+ G PMIN_1_1
+ E SU_1_1
+ L RU_1_1
+ L RD_1_1
+ L MUT_1_1
+ L MDT_1_1
+ L PMAX_2_1
+ G PMIN_2_1
+ E SU_2_1
+ L RU_2_1
+ L RD_2_1
+ L MUT_2_1
+ L MDT_2_1
+ L PMAX_3_1
+ G PMIN_3_1
+ E SU_3_1
+ L RU_3_1
+ L RD_3_1
+ L MUT_3_1
+ L MDT_3_1
+ L PMAX_4_1
+ G PMIN_4_1
+ E SU_4_1
+ L RU_4_1
+ L RD_4_1
+ L MUT_4_1
+ L MDT_4_1
+ L PMAX_5_1
+ G PMIN_5_1
+ E SU_5_1
+ L RU_5_1
+ L RD_5_1
+ L MUT_5_1
+ L MDT_5_1
+ L PMAX_6_1
+ G PMIN_6_1
+ E SU_6_1
+ L RU_6_1
+ L RD_6_1
+ L MUT_6_1
+ L MDT_6_1
+ L PMAX_7_1
+ G PMIN_7_1
+ E SU_7_1
+ L RU_7_1
+ L RD_7_1
+ L MUT_7_1
+ L MDT_7_1
+ E DEM_2
+ G RES_2
+ L PMAX_0_2
+ G PMIN_0_2
+ E SU_0_2
+ L RU_0_2
+ L RD_0_2
+ L MUT_0_2
+ L MDT_0_2
+ L PMAX_1_2
+ G PMIN_1_2
+ E SU_1_2
+ L RU_1_2
+ L RD_1_2
+ L MUT_1_2
+ L MDT_1_2
+ L PMAX_2_2
+ G PMIN_2_2
+ E SU_2_2
+ L RU_2_2
+ L RD_2_2
+ L MUT_2_2
+ L MDT_2_2
+ L PMAX_3_2
+ G PMIN_3_2
+ E SU_3_2
+ L RU_3_2
+ L RD_3_2
+ L MUT_3_2
+ L MDT_3_2
+ L PMAX_4_2
+ G PMIN_4_2
+ E SU_4_2
+ L RU_4_2
+ L RD_4_2
+ L MUT_4_2
+ L MDT_4_2
+ L PMAX_5_2
+ G PMIN_5_2
+ E SU_5_2
+ L RU_5_2
+ L RD_5_2
+ L MUT_5_2
+ L MDT_5_2
+ L PMAX_6_2
+ G PMIN_6_2
+ E SU_6_2
+ L RU_6_2
+ L RD_6_2
+ L MUT_6_2
+ L MDT_6_2
+ L PMAX_7_2
+ G PMIN_7_2
+ E SU_7_2
+ L RU_7_2
+ L RD_7_2
+ L MUT_7_2
+ L MDT_7_2
+ E DEM_3
+ G RES_3
+ L PMAX_0_3
+ G PMIN_0_3
+ E SU_0_3
+ L RU_0_3
+ L RD_0_3
+ L MUT_0_3
+ L MDT_0_3
+ L PMAX_1_3
+ G PMIN_1_3
+ E SU_1_3
+ L RU_1_3
+ L RD_1_3
+ L MUT_1_3
+ L MDT_1_3
+ L PMAX_2_3
+ G PMIN_2_3
+ E SU_2_3
+ L RU_2_3
+ L RD_2_3
+ L MUT_2_3
+ L MDT_2_3
+ L PMAX_3_3
+ G PMIN_3_3
+ E SU_3_3
+ L RU_3_3
+ L RD_3_3
+ L MUT_3_3
+ L MDT_3_3
+ L PMAX_4_3
+ G PMIN_4_3
+ E SU_4_3
+ L RU_4_3
+ L RD_4_3
+ L MUT_4_3
+ L MDT_4_3
+ L PMAX_5_3
+ G PMIN_5_3
+ E SU_5_3
+ L RU_5_3
+ L RD_5_3
+ L MUT_5_3
+ L MDT_5_3
+ L PMAX_6_3
+ G PMIN_6_3
+ E SU_6_3
+ L RU_6_3
+ L RD_6_3
+ L MUT_6_3
+ L MDT_6_3
+ L PMAX_7_3
+ G PMIN_7_3
+ E SU_7_3
+ L RU_7_3
+ L RD_7_3
+ L MUT_7_3
+ L MDT_7_3
+ E DEM_4
+ G RES_4
+ L PMAX_0_4
+ G PMIN_0_4
+ E SU_0_4
+ L RU_0_4
+ L RD_0_4
+ L MUT_0_4
+ L MDT_0_4
+ L PMAX_1_4
+ G PMIN_1_4
+ E SU_1_4
+ L RU_1_4
+ L RD_1_4
+ L MUT_1_4
+ L MDT_1_4
+ L PMAX_2_4
+ G PMIN_2_4
+ E SU_2_4
+ L RU_2_4
+ L RD_2_4
+ L MUT_2_4
+ L MDT_2_4
+ L PMAX_3_4
+ G PMIN_3_4
+ E SU_3_4
+ L RU_3_4
+ L RD_3_4
+ L MUT_3_4
+ L MDT_3_4
+ L PMAX_4_4
+ G PMIN_4_4
+ E SU_4_4
+ L RU_4_4
+ L RD_4_4
+ L MUT_4_4
+ L MDT_4_4
+ L PMAX_5_4
+ G PMIN_5_4
+ E SU_5_4
+ L RU_5_4
+ L RD_5_4
+ L MUT_5_4
+ L MDT_5_4
+ L PMAX_6_4
+ G PMIN_6_4
+ E SU_6_4
+ L RU_6_4
+ L RD_6_4
+ L MUT_6_4
+ L MDT_6_4
+ L PMAX_7_4
+ G PMIN_7_4
+ E SU_7_4
+ L RU_7_4
+ L RD_7_4
+ L MUT_7_4
+ L MDT_7_4
+ E DEM_5
+ G RES_5
+ L PMAX_0_5
+ G PMIN_0_5
+ E SU_0_5
+ L RU_0_5
+ L RD_0_5
+ L MUT_0_5
+ L MDT_0_5
+ L PMAX_1_5
+ G PMIN_1_5
+ E SU_1_5
+ L RU_1_5
+ L RD_1_5
+ L MUT_1_5
+ L MDT_1_5
+ L PMAX_2_5
+ G PMIN_2_5
+ E SU_2_5
+ L RU_2_5
+ L RD_2_5
+ L MUT_2_5
+ L MDT_2_5
+ L PMAX_3_5
+ G PMIN_3_5
+ E SU_3_5
+ L RU_3_5
+ L RD_3_5
+ L MUT_3_5
+ L MDT_3_5
+ L PMAX_4_5
+ G PMIN_4_5
+ E SU_4_5
+ L RU_4_5
+ L RD_4_5
+ L MUT_4_5
+ L MDT_4_5
+ L PMAX_5_5
+ G PMIN_5_5
+ E SU_5_5
+ L RU_5_5
+ L RD_5_5
+ L MUT_5_5
+ L MDT_5_5
+ L PMAX_6_5
+ G PMIN_6_5
+ E SU_6_5
+ L RU_6_5
+ L RD_6_5
+ L MUT_6_5
+ L MDT_6_5
+ L PMAX_7_5
+ G PMIN_7_5
+ E SU_7_5
+ L RU_7_5
+ L RD_7_5
+ L MUT_7_5
+ L MDT_7_5
+ E DEM_6
+ G RES_6
+ L PMAX_0_6
+ G PMIN_0_6
+ E SU_0_6
+ L RU_0_6
+ L RD_0_6
+ L MUT_0_6
+ L MDT_0_6
+ L PMAX_1_6
+ G PMIN_1_6
+ E SU_1_6
+ L RU_1_6
+ L RD_1_6
+ L MUT_1_6
+ L MDT_1_6
+ L PMAX_2_6
+ G PMIN_2_6
+ E SU_2_6
+ L RU_2_6
+ L RD_2_6
+ L MUT_2_6
+ L MDT_2_6
+ L PMAX_3_6
+ G PMIN_3_6
+ E SU_3_6
+ L RU_3_6
+ L RD_3_6
+ L MUT_3_6
+ L MDT_3_6
+ L PMAX_4_6
+ G PMIN_4_6
+ E SU_4_6
+ L RU_4_6
+ L RD_4_6
+ L MUT_4_6
+ L MDT_4_6
+ L PMAX_5_6
+ G PMIN_5_6
+ E SU_5_6
+ L RU_5_6
+ L RD_5_6
+ L MUT_5_6
+ L MDT_5_6
+ L PMAX_6_6
+ G PMIN_6_6
+ E SU_6_6
+ L RU_6_6
+ L RD_6_6
+ L MUT_6_6
+ L MDT_6_6
+ L PMAX_7_6
+ G PMIN_7_6
+ E SU_7_6
+ L RU_7_6
+ L RD_7_6
+ L MUT_7_6
+ L MDT_7_6
+ E DEM_7
+ G RES_7
+ L PMAX_0_7
+ G PMIN_0_7
+ E SU_0_7
+ L RU_0_7
+ L RD_0_7
+ L MUT_0_7
+ L MDT_0_7
+ L PMAX_1_7
+ G PMIN_1_7
+ E SU_1_7
+ L RU_1_7
+ L RD_1_7
+ L MUT_1_7
+ L MDT_1_7
+ L PMAX_2_7
+ G PMIN_2_7
+ E SU_2_7
+ L RU_2_7
+ L RD_2_7
+ L MUT_2_7
+ L MDT_2_7
+ L PMAX_3_7
+ G PMIN_3_7
+ E SU_3_7
+ L RU_3_7
+ L RD_3_7
+ L MUT_3_7
+ L MDT_3_7
+ L PMAX_4_7
+ G PMIN_4_7
+ E SU_4_7
+ L RU_4_7
+ L RD_4_7
+ L MUT_4_7
+ L MDT_4_7
+ L PMAX_5_7
+ G PMIN_5_7
+ E SU_5_7
+ L RU_5_7
+ L RD_5_7
+ L MUT_5_7
+ L MDT_5_7
+ L PMAX_6_7
+ G PMIN_6_7
+ E SU_6_7
+ L RU_6_7
+ L RD_6_7
+ L MUT_6_7
+ L MDT_6_7
+ L PMAX_7_7
+ G PMIN_7_7
+ E SU_7_7
+ L RU_7_7
+ L RD_7_7
+ L MUT_7_7
+ L MDT_7_7
+ E DEM_8
+ G RES_8
+ L PMAX_0_8
+ G PMIN_0_8
+ E SU_0_8
+ L RU_0_8
+ L RD_0_8
+ L MUT_0_8
+ L MDT_0_8
+ L PMAX_1_8
+ G PMIN_1_8
+ E SU_1_8
+ L RU_1_8
+ L RD_1_8
+ L MUT_1_8
+ L MDT_1_8
+ L PMAX_2_8
+ G PMIN_2_8
+ E SU_2_8
+ L RU_2_8
+ L RD_2_8
+ L MUT_2_8
+ L MDT_2_8
+ L PMAX_3_8
+ G PMIN_3_8
+ E SU_3_8
+ L RU_3_8
+ L RD_3_8
+ L MUT_3_8
+ L MDT_3_8
+ L PMAX_4_8
+ G PMIN_4_8
+ E SU_4_8
+ L RU_4_8
+ L RD_4_8
+ L MUT_4_8
+ L MDT_4_8
+ L PMAX_5_8
+ G PMIN_5_8
+ E SU_5_8
+ L RU_5_8
+ L RD_5_8
+ L MUT_5_8
+ L MDT_5_8
+ L PMAX_6_8
+ G PMIN_6_8
+ E SU_6_8
+ L RU_6_8
+ L RD_6_8
+ L MUT_6_8
+ L MDT_6_8
+ L PMAX_7_8
+ G PMIN_7_8
+ E SU_7_8
+ L RU_7_8
+ L RD_7_8
+ L MUT_7_8
+ L MDT_7_8
+ E DEM_9
+ G RES_9
+ L PMAX_0_9
+ G PMIN_0_9
+ E SU_0_9
+ L RU_0_9
+ L RD_0_9
+ L MUT_0_9
+ L MDT_0_9
+ L PMAX_1_9
+ G PMIN_1_9
+ E SU_1_9
+ L RU_1_9
+ L RD_1_9
+ L MUT_1_9
+ L MDT_1_9
+ L PMAX_2_9
+ G PMIN_2_9
+ E SU_2_9
+ L RU_2_9
+ L RD_2_9
+ L MUT_2_9
+ L MDT_2_9
+ L PMAX_3_9
+ G PMIN_3_9
+ E SU_3_9
+ L RU_3_9
+ L RD_3_9
+ L MUT_3_9
+ L MDT_3_9
+ L PMAX_4_9
+ G PMIN_4_9
+ E SU_4_9
+ L RU_4_9
+ L RD_4_9
+ L MUT_4_9
+ L MDT_4_9
+ L PMAX_5_9
+ G PMIN_5_9
+ E SU_5_9
+ L RU_5_9
+ L RD_5_9
+ L MUT_5_9
+ L MDT_5_9
+ L PMAX_6_9
+ G PMIN_6_9
+ E SU_6_9
+ L RU_6_9
+ L RD_6_9
+ L MUT_6_9
+ L MDT_6_9
+ L PMAX_7_9
+ G PMIN_7_9
+ E SU_7_9
+ L RU_7_9
+ L RD_7_9
+ L MUT_7_9
+ L MDT_7_9
+ E DEM_10
+ G RES_10
+ L PMAX_0_10
+ G PMIN_0_10
+ E SU_0_10
+ L RU_0_10
+ L RD_0_10
+ L MUT_0_10
+ L MDT_0_10
+ L PMAX_1_10
+ G PMIN_1_10
+ E SU_1_10
+ L RU_1_10
+ L RD_1_10
+ L MUT_1_10
+ L MDT_1_10
+ L PMAX_2_10
+ G PMIN_2_10
+ E SU_2_10
+ L RU_2_10
+ L RD_2_10
+ L MUT_2_10
+ L MDT_2_10
+ L PMAX_3_10
+ G PMIN_3_10
+ E SU_3_10
+ L RU_3_10
+ L RD_3_10
+ L MUT_3_10
+ L MDT_3_10
+ L PMAX_4_10
+ G PMIN_4_10
+ E SU_4_10
+ L RU_4_10
+ L RD_4_10
+ L MUT_4_10
+ L MDT_4_10
+ L PMAX_5_10
+ G PMIN_5_10
+ E SU_5_10
+ L RU_5_10
+ L RD_5_10
+ L MUT_5_10
+ L MDT_5_10
+ L PMAX_6_10
+ G PMIN_6_10
+ E SU_6_10
+ L RU_6_10
+ L RD_6_10
+ L MUT_6_10
+ L MDT_6_10
+ L PMAX_7_10
+ G PMIN_7_10
+ E SU_7_10
+ L RU_7_10
+ L RD_7_10
+ L MUT_7_10
+ L MDT_7_10
+ E DEM_11
+ G RES_11
+ L PMAX_0_11
+ G PMIN_0_11
+ E SU_0_11
+ L RU_0_11
+ L RD_0_11
+ L MUT_0_11
+ L MDT_0_11
+ L PMAX_1_11
+ G PMIN_1_11
+ E SU_1_11
+ L RU_1_11
+ L RD_1_11
+ L MUT_1_11
+ L MDT_1_11
+ L PMAX_2_11
+ G PMIN_2_11
+ E SU_2_11
+ L RU_2_11
+ L RD_2_11
+ L MUT_2_11
+ L MDT_2_11
+ L PMAX_3_11
+ G PMIN_3_11
+ E SU_3_11
+ L RU_3_11
+ L RD_3_11
+ L MUT_3_11
+ L MDT_3_11
+ L PMAX_4_11
+ G PMIN_4_11
+ E SU_4_11
+ L RU_4_11
+ L RD_4_11
+ L MUT_4_11
+ L MDT_4_11
+ L PMAX_5_11
+ G PMIN_5_11
+ E SU_5_11
+ L RU_5_11
+ L RD_5_11
+ L MUT_5_11
+ L MDT_5_11
+ L PMAX_6_11
+ G PMIN_6_11
+ E SU_6_11
+ L RU_6_11
+ L RD_6_11
+ L MUT_6_11
+ L MDT_6_11
+ L PMAX_7_11
+ G PMIN_7_11
+ E SU_7_11
+ L RU_7_11
+ L RD_7_11
+ L MUT_7_11
+ L MDT_7_11
+COLUMNS
+    MARKER 'MARKER' 'INTORG'
+    U_0_0 OBJ 95.145637
+    U_0_0 RES_0 80
+    U_0_0 PMAX_0_0 -80
+    U_0_0 PMIN_0_0 -29.660893
+    U_0_0 SU_0_0 -1
+    U_0_0 SU_0_1 1
+    U_0_0 RU_0_1 -48.350798
+    U_0_0 MUT_0_0 -1
+    U_0_0 MDT_0_0 1
+    MARKER 'MARKER' 'INTEND'
+    V_0_0 OBJ 2166.0098
+    V_0_0 SU_0_0 1
+    V_0_0 MUT_0_0 1
+    V_0_0 MUT_0_1 1
+    V_0_0 MUT_0_2 1
+    V_0_0 MUT_0_3 1
+    W_0_0 SU_0_0 -1
+    W_0_0 MDT_0_0 1
+    W_0_0 MDT_0_1 1
+    W_0_0 MDT_0_2 1
+    W_0_0 MDT_0_3 1
+    P_0_0 OBJ 66.432506
+    P_0_0 DEM_0 1
+    P_0_0 PMAX_0_0 1
+    P_0_0 PMIN_0_0 1
+    P_0_0 RU_0_1 -1
+    P_0_0 RD_0_1 1
+    MARKER 'MARKER' 'INTORG'
+    U_1_0 OBJ 108.47132
+    U_1_0 RES_0 50
+    U_1_0 PMAX_1_0 -50
+    U_1_0 PMIN_1_0 -17.31785
+    U_1_0 SU_1_0 -1
+    U_1_0 SU_1_1 1
+    U_1_0 RU_1_1 -30.343153
+    U_1_0 MUT_1_0 -1
+    U_1_0 MDT_1_0 1
+    MARKER 'MARKER' 'INTEND'
+    V_1_0 OBJ 2822.314
+    V_1_0 SU_1_0 1
+    V_1_0 MUT_1_0 1
+    V_1_0 MUT_1_1 1
+    V_1_0 MUT_1_2 1
+    V_1_0 MUT_1_3 1
+    W_1_0 SU_1_0 -1
+    W_1_0 MDT_1_0 1
+    W_1_0 MDT_1_1 1
+    W_1_0 MDT_1_2 1
+    P_1_0 OBJ 71.759047
+    P_1_0 DEM_0 1
+    P_1_0 PMAX_1_0 1
+    P_1_0 PMIN_1_0 1
+    P_1_0 RU_1_1 -1
+    P_1_0 RD_1_1 1
+    MARKER 'MARKER' 'INTORG'
+    U_2_0 OBJ 156.18311
+    U_2_0 RES_0 80
+    U_2_0 PMAX_2_0 -80
+    U_2_0 PMIN_2_0 -30.187682
+    U_2_0 SU_2_0 -1
+    U_2_0 SU_2_1 1
+    U_2_0 RU_2_1 -44.785476
+    U_2_0 MUT_2_0 -1
+    U_2_0 MDT_2_0 1
+    MARKER 'MARKER' 'INTEND'
+    V_2_0 OBJ 1707.1461
+    V_2_0 SU_2_0 1
+    V_2_0 MUT_2_0 1
+    W_2_0 SU_2_0 -1
+    W_2_0 MDT_2_0 1
+    W_2_0 MDT_2_1 1
+    W_2_0 MDT_2_2 1
+    W_2_0 MDT_2_3 1
+    P_2_0 OBJ 25.480289
+    P_2_0 DEM_0 1
+    P_2_0 PMAX_2_0 1
+    P_2_0 PMIN_2_0 1
+    P_2_0 RU_2_1 -1
+    P_2_0 RD_2_1 1
+    MARKER 'MARKER' 'INTORG'
+    U_3_0 OBJ 493.66545
+    U_3_0 RES_0 150
+    U_3_0 PMAX_3_0 -150
+    U_3_0 PMIN_3_0 -62.663367
+    U_3_0 SU_3_0 -1
+    U_3_0 SU_3_1 1
+    U_3_0 RU_3_1 -78.171575
+    U_3_0 MUT_3_0 -1
+    U_3_0 MDT_3_0 1
+    MARKER 'MARKER' 'INTEND'
+    V_3_0 OBJ 11452.503
+    V_3_0 SU_3_0 1
+    V_3_0 MUT_3_0 1
+    V_3_0 MUT_3_1 1
+    V_3_0 MUT_3_2 1
+    W_3_0 SU_3_0 -1
+    W_3_0 MDT_3_0 1
+    W_3_0 MDT_3_1 1
+    P_3_0 OBJ 38.743324
+    P_3_0 DEM_0 1
+    P_3_0 PMAX_3_0 1
+    P_3_0 PMIN_3_0 1
+    P_3_0 RU_3_1 -1
+    P_3_0 RD_3_1 1
+    MARKER 'MARKER' 'INTORG'
+    U_4_0 OBJ 425.78765
+    U_4_0 RES_0 400
+    U_4_0 PMAX_4_0 -400
+    U_4_0 PMIN_4_0 -135.15242
+    U_4_0 SU_4_0 -1
+    U_4_0 SU_4_1 1
+    U_4_0 RU_4_1 -209.03269
+    U_4_0 MUT_4_0 -1
+    U_4_0 MDT_4_0 1
+    MARKER 'MARKER' 'INTEND'
+    V_4_0 OBJ 28101.871
+    V_4_0 SU_4_0 1
+    V_4_0 MUT_4_0 1
+    W_4_0 SU_4_0 -1
+    W_4_0 MDT_4_0 1
+    W_4_0 MDT_4_1 1
+    P_4_0 OBJ 28.040173
+    P_4_0 DEM_0 1
+    P_4_0 PMAX_4_0 1
+    P_4_0 PMIN_4_0 1
+    P_4_0 RU_4_1 -1
+    P_4_0 RD_4_1 1
+    MARKER 'MARKER' 'INTORG'
+    U_5_0 OBJ 599.42567
+    U_5_0 RES_0 300
+    U_5_0 PMAX_5_0 -300
+    U_5_0 PMIN_5_0 -137.39519
+    U_5_0 SU_5_0 -1
+    U_5_0 SU_5_1 1
+    U_5_0 RU_5_1 -175.34301
+    U_5_0 MUT_5_0 -1
+    U_5_0 MDT_5_0 1
+    MARKER 'MARKER' 'INTEND'
+    V_5_0 OBJ 18986.719
+    V_5_0 SU_5_0 1
+    V_5_0 MUT_5_0 1
+    V_5_0 MUT_5_1 1
+    V_5_0 MUT_5_2 1
+    V_5_0 MUT_5_3 1
+    W_5_0 SU_5_0 -1
+    W_5_0 MDT_5_0 1
+    W_5_0 MDT_5_1 1
+    P_5_0 OBJ 20.440048
+    P_5_0 DEM_0 1
+    P_5_0 PMAX_5_0 1
+    P_5_0 PMIN_5_0 1
+    P_5_0 RU_5_1 -1
+    P_5_0 RD_5_1 1
+    MARKER 'MARKER' 'INTORG'
+    U_6_0 OBJ 764.54809
+    U_6_0 RES_0 200
+    U_6_0 PMAX_6_0 -200
+    U_6_0 PMIN_6_0 -98.407084
+    U_6_0 SU_6_0 -1
+    U_6_0 SU_6_1 1
+    U_6_0 RU_6_1 -128.26304
+    U_6_0 MUT_6_0 -1
+    U_6_0 MDT_6_0 1
+    MARKER 'MARKER' 'INTEND'
+    V_6_0 OBJ 8720.2435
+    V_6_0 SU_6_0 1
+    V_6_0 MUT_6_0 1
+    V_6_0 MUT_6_1 1
+    V_6_0 MUT_6_2 1
+    V_6_0 MUT_6_3 1
+    W_6_0 SU_6_0 -1
+    W_6_0 MDT_6_0 1
+    W_6_0 MDT_6_1 1
+    P_6_0 OBJ 37.471293
+    P_6_0 DEM_0 1
+    P_6_0 PMAX_6_0 1
+    P_6_0 PMIN_6_0 1
+    P_6_0 RU_6_1 -1
+    P_6_0 RD_6_1 1
+    MARKER 'MARKER' 'INTORG'
+    U_7_0 OBJ 396.95944
+    U_7_0 RES_0 150
+    U_7_0 PMAX_7_0 -150
+    U_7_0 PMIN_7_0 -48.64413
+    U_7_0 SU_7_0 -1
+    U_7_0 SU_7_1 1
+    U_7_0 RU_7_1 -85.46915
+    U_7_0 MUT_7_0 -1
+    U_7_0 MDT_7_0 1
+    MARKER 'MARKER' 'INTEND'
+    V_7_0 OBJ 9327.3669
+    V_7_0 SU_7_0 1
+    V_7_0 MUT_7_0 1
+    V_7_0 MUT_7_1 1
+    V_7_0 MUT_7_2 1
+    W_7_0 SU_7_0 -1
+    W_7_0 MDT_7_0 1
+    P_7_0 OBJ 22.785333
+    P_7_0 DEM_0 1
+    P_7_0 PMAX_7_0 1
+    P_7_0 PMIN_7_0 1
+    P_7_0 RU_7_1 -1
+    P_7_0 RD_7_1 1
+    SHED_0 OBJ 1000
+    SHED_0 DEM_0 1
+    SHED_0 RES_0 1.1
+    MARKER 'MARKER' 'INTORG'
+    U_0_1 OBJ 95.145637
+    U_0_1 RES_1 80
+    U_0_1 PMAX_0_1 -80
+    U_0_1 PMIN_0_1 -29.660893
+    U_0_1 SU_0_1 -1
+    U_0_1 SU_0_2 1
+    U_0_1 RU_0_2 -48.350798
+    U_0_1 RD_0_1 -48.350798
+    U_0_1 MUT_0_1 -1
+    U_0_1 MDT_0_1 1
+    MARKER 'MARKER' 'INTEND'
+    V_0_1 OBJ 2166.0098
+    V_0_1 SU_0_1 1
+    V_0_1 RU_0_1 -29.660893
+    V_0_1 MUT_0_1 1
+    V_0_1 MUT_0_2 1
+    V_0_1 MUT_0_3 1
+    V_0_1 MUT_0_4 1
+    W_0_1 SU_0_1 -1
+    W_0_1 RD_0_1 -80
+    W_0_1 MDT_0_1 1
+    W_0_1 MDT_0_2 1
+    W_0_1 MDT_0_3 1
+    W_0_1 MDT_0_4 1
+    P_0_1 OBJ 66.432506
+    P_0_1 DEM_1 1
+    P_0_1 PMAX_0_1 1
+    P_0_1 PMIN_0_1 1
+    P_0_1 RU_0_1 1
+    P_0_1 RD_0_1 -1
+    P_0_1 RU_0_2 -1
+    P_0_1 RD_0_2 1
+    MARKER 'MARKER' 'INTORG'
+    U_1_1 OBJ 108.47132
+    U_1_1 RES_1 50
+    U_1_1 PMAX_1_1 -50
+    U_1_1 PMIN_1_1 -17.31785
+    U_1_1 SU_1_1 -1
+    U_1_1 SU_1_2 1
+    U_1_1 RU_1_2 -30.343153
+    U_1_1 RD_1_1 -30.343153
+    U_1_1 MUT_1_1 -1
+    U_1_1 MDT_1_1 1
+    MARKER 'MARKER' 'INTEND'
+    V_1_1 OBJ 2822.314
+    V_1_1 SU_1_1 1
+    V_1_1 RU_1_1 -17.31785
+    V_1_1 MUT_1_1 1
+    V_1_1 MUT_1_2 1
+    V_1_1 MUT_1_3 1
+    V_1_1 MUT_1_4 1
+    W_1_1 SU_1_1 -1
+    W_1_1 RD_1_1 -50
+    W_1_1 MDT_1_1 1
+    W_1_1 MDT_1_2 1
+    W_1_1 MDT_1_3 1
+    P_1_1 OBJ 71.759047
+    P_1_1 DEM_1 1
+    P_1_1 PMAX_1_1 1
+    P_1_1 PMIN_1_1 1
+    P_1_1 RU_1_1 1
+    P_1_1 RD_1_1 -1
+    P_1_1 RU_1_2 -1
+    P_1_1 RD_1_2 1
+    MARKER 'MARKER' 'INTORG'
+    U_2_1 OBJ 156.18311
+    U_2_1 RES_1 80
+    U_2_1 PMAX_2_1 -80
+    U_2_1 PMIN_2_1 -30.187682
+    U_2_1 SU_2_1 -1
+    U_2_1 SU_2_2 1
+    U_2_1 RU_2_2 -44.785476
+    U_2_1 RD_2_1 -44.785476
+    U_2_1 MUT_2_1 -1
+    U_2_1 MDT_2_1 1
+    MARKER 'MARKER' 'INTEND'
+    V_2_1 OBJ 1707.1461
+    V_2_1 SU_2_1 1
+    V_2_1 RU_2_1 -30.187682
+    V_2_1 MUT_2_1 1
+    W_2_1 SU_2_1 -1
+    W_2_1 RD_2_1 -80
+    W_2_1 MDT_2_1 1
+    W_2_1 MDT_2_2 1
+    W_2_1 MDT_2_3 1
+    W_2_1 MDT_2_4 1
+    P_2_1 OBJ 25.480289
+    P_2_1 DEM_1 1
+    P_2_1 PMAX_2_1 1
+    P_2_1 PMIN_2_1 1
+    P_2_1 RU_2_1 1
+    P_2_1 RD_2_1 -1
+    P_2_1 RU_2_2 -1
+    P_2_1 RD_2_2 1
+    MARKER 'MARKER' 'INTORG'
+    U_3_1 OBJ 493.66545
+    U_3_1 RES_1 150
+    U_3_1 PMAX_3_1 -150
+    U_3_1 PMIN_3_1 -62.663367
+    U_3_1 SU_3_1 -1
+    U_3_1 SU_3_2 1
+    U_3_1 RU_3_2 -78.171575
+    U_3_1 RD_3_1 -78.171575
+    U_3_1 MUT_3_1 -1
+    U_3_1 MDT_3_1 1
+    MARKER 'MARKER' 'INTEND'
+    V_3_1 OBJ 11452.503
+    V_3_1 SU_3_1 1
+    V_3_1 RU_3_1 -62.663367
+    V_3_1 MUT_3_1 1
+    V_3_1 MUT_3_2 1
+    V_3_1 MUT_3_3 1
+    W_3_1 SU_3_1 -1
+    W_3_1 RD_3_1 -150
+    W_3_1 MDT_3_1 1
+    W_3_1 MDT_3_2 1
+    P_3_1 OBJ 38.743324
+    P_3_1 DEM_1 1
+    P_3_1 PMAX_3_1 1
+    P_3_1 PMIN_3_1 1
+    P_3_1 RU_3_1 1
+    P_3_1 RD_3_1 -1
+    P_3_1 RU_3_2 -1
+    P_3_1 RD_3_2 1
+    MARKER 'MARKER' 'INTORG'
+    U_4_1 OBJ 425.78765
+    U_4_1 RES_1 400
+    U_4_1 PMAX_4_1 -400
+    U_4_1 PMIN_4_1 -135.15242
+    U_4_1 SU_4_1 -1
+    U_4_1 SU_4_2 1
+    U_4_1 RU_4_2 -209.03269
+    U_4_1 RD_4_1 -209.03269
+    U_4_1 MUT_4_1 -1
+    U_4_1 MDT_4_1 1
+    MARKER 'MARKER' 'INTEND'
+    V_4_1 OBJ 28101.871
+    V_4_1 SU_4_1 1
+    V_4_1 RU_4_1 -135.15242
+    V_4_1 MUT_4_1 1
+    W_4_1 SU_4_1 -1
+    W_4_1 RD_4_1 -400
+    W_4_1 MDT_4_1 1
+    W_4_1 MDT_4_2 1
+    P_4_1 OBJ 28.040173
+    P_4_1 DEM_1 1
+    P_4_1 PMAX_4_1 1
+    P_4_1 PMIN_4_1 1
+    P_4_1 RU_4_1 1
+    P_4_1 RD_4_1 -1
+    P_4_1 RU_4_2 -1
+    P_4_1 RD_4_2 1
+    MARKER 'MARKER' 'INTORG'
+    U_5_1 OBJ 599.42567
+    U_5_1 RES_1 300
+    U_5_1 PMAX_5_1 -300
+    U_5_1 PMIN_5_1 -137.39519
+    U_5_1 SU_5_1 -1
+    U_5_1 SU_5_2 1
+    U_5_1 RU_5_2 -175.34301
+    U_5_1 RD_5_1 -175.34301
+    U_5_1 MUT_5_1 -1
+    U_5_1 MDT_5_1 1
+    MARKER 'MARKER' 'INTEND'
+    V_5_1 OBJ 18986.719
+    V_5_1 SU_5_1 1
+    V_5_1 RU_5_1 -137.39519
+    V_5_1 MUT_5_1 1
+    V_5_1 MUT_5_2 1
+    V_5_1 MUT_5_3 1
+    V_5_1 MUT_5_4 1
+    W_5_1 SU_5_1 -1
+    W_5_1 RD_5_1 -300
+    W_5_1 MDT_5_1 1
+    W_5_1 MDT_5_2 1
+    P_5_1 OBJ 20.440048
+    P_5_1 DEM_1 1
+    P_5_1 PMAX_5_1 1
+    P_5_1 PMIN_5_1 1
+    P_5_1 RU_5_1 1
+    P_5_1 RD_5_1 -1
+    P_5_1 RU_5_2 -1
+    P_5_1 RD_5_2 1
+    MARKER 'MARKER' 'INTORG'
+    U_6_1 OBJ 764.54809
+    U_6_1 RES_1 200
+    U_6_1 PMAX_6_1 -200
+    U_6_1 PMIN_6_1 -98.407084
+    U_6_1 SU_6_1 -1
+    U_6_1 SU_6_2 1
+    U_6_1 RU_6_2 -128.26304
+    U_6_1 RD_6_1 -128.26304
+    U_6_1 MUT_6_1 -1
+    U_6_1 MDT_6_1 1
+    MARKER 'MARKER' 'INTEND'
+    V_6_1 OBJ 8720.2435
+    V_6_1 SU_6_1 1
+    V_6_1 RU_6_1 -98.407084
+    V_6_1 MUT_6_1 1
+    V_6_1 MUT_6_2 1
+    V_6_1 MUT_6_3 1
+    V_6_1 MUT_6_4 1
+    W_6_1 SU_6_1 -1
+    W_6_1 RD_6_1 -200
+    W_6_1 MDT_6_1 1
+    W_6_1 MDT_6_2 1
+    P_6_1 OBJ 37.471293
+    P_6_1 DEM_1 1
+    P_6_1 PMAX_6_1 1
+    P_6_1 PMIN_6_1 1
+    P_6_1 RU_6_1 1
+    P_6_1 RD_6_1 -1
+    P_6_1 RU_6_2 -1
+    P_6_1 RD_6_2 1
+    MARKER 'MARKER' 'INTORG'
+    U_7_1 OBJ 396.95944
+    U_7_1 RES_1 150
+    U_7_1 PMAX_7_1 -150
+    U_7_1 PMIN_7_1 -48.64413
+    U_7_1 SU_7_1 -1
+    U_7_1 SU_7_2 1
+    U_7_1 RU_7_2 -85.46915
+    U_7_1 RD_7_1 -85.46915
+    U_7_1 MUT_7_1 -1
+    U_7_1 MDT_7_1 1
+    MARKER 'MARKER' 'INTEND'
+    V_7_1 OBJ 9327.3669
+    V_7_1 SU_7_1 1
+    V_7_1 RU_7_1 -48.64413
+    V_7_1 MUT_7_1 1
+    V_7_1 MUT_7_2 1
+    V_7_1 MUT_7_3 1
+    W_7_1 SU_7_1 -1
+    W_7_1 RD_7_1 -150
+    W_7_1 MDT_7_1 1
+    P_7_1 OBJ 22.785333
+    P_7_1 DEM_1 1
+    P_7_1 PMAX_7_1 1
+    P_7_1 PMIN_7_1 1
+    P_7_1 RU_7_1 1
+    P_7_1 RD_7_1 -1
+    P_7_1 RU_7_2 -1
+    P_7_1 RD_7_2 1
+    SHED_1 OBJ 1000
+    SHED_1 DEM_1 1
+    SHED_1 RES_1 1.1
+    MARKER 'MARKER' 'INTORG'
+    U_0_2 OBJ 95.145637
+    U_0_2 RES_2 80
+    U_0_2 PMAX_0_2 -80
+    U_0_2 PMIN_0_2 -29.660893
+    U_0_2 SU_0_2 -1
+    U_0_2 SU_0_3 1
+    U_0_2 RU_0_3 -48.350798
+    U_0_2 RD_0_2 -48.350798
+    U_0_2 MUT_0_2 -1
+    U_0_2 MDT_0_2 1
+    MARKER 'MARKER' 'INTEND'
+    V_0_2 OBJ 2166.0098
+    V_0_2 SU_0_2 1
+    V_0_2 RU_0_2 -29.660893
+    V_0_2 MUT_0_2 1
+    V_0_2 MUT_0_3 1
+    V_0_2 MUT_0_4 1
+    V_0_2 MUT_0_5 1
+    W_0_2 SU_0_2 -1
+    W_0_2 RD_0_2 -80
+    W_0_2 MDT_0_2 1
+    W_0_2 MDT_0_3 1
+    W_0_2 MDT_0_4 1
+    W_0_2 MDT_0_5 1
+    P_0_2 OBJ 66.432506
+    P_0_2 DEM_2 1
+    P_0_2 PMAX_0_2 1
+    P_0_2 PMIN_0_2 1
+    P_0_2 RU_0_2 1
+    P_0_2 RD_0_2 -1
+    P_0_2 RU_0_3 -1
+    P_0_2 RD_0_3 1
+    MARKER 'MARKER' 'INTORG'
+    U_1_2 OBJ 108.47132
+    U_1_2 RES_2 50
+    U_1_2 PMAX_1_2 -50
+    U_1_2 PMIN_1_2 -17.31785
+    U_1_2 SU_1_2 -1
+    U_1_2 SU_1_3 1
+    U_1_2 RU_1_3 -30.343153
+    U_1_2 RD_1_2 -30.343153
+    U_1_2 MUT_1_2 -1
+    U_1_2 MDT_1_2 1
+    MARKER 'MARKER' 'INTEND'
+    V_1_2 OBJ 2822.314
+    V_1_2 SU_1_2 1
+    V_1_2 RU_1_2 -17.31785
+    V_1_2 MUT_1_2 1
+    V_1_2 MUT_1_3 1
+    V_1_2 MUT_1_4 1
+    V_1_2 MUT_1_5 1
+    W_1_2 SU_1_2 -1
+    W_1_2 RD_1_2 -50
+    W_1_2 MDT_1_2 1
+    W_1_2 MDT_1_3 1
+    W_1_2 MDT_1_4 1
+    P_1_2 OBJ 71.759047
+    P_1_2 DEM_2 1
+    P_1_2 PMAX_1_2 1
+    P_1_2 PMIN_1_2 1
+    P_1_2 RU_1_2 1
+    P_1_2 RD_1_2 -1
+    P_1_2 RU_1_3 -1
+    P_1_2 RD_1_3 1
+    MARKER 'MARKER' 'INTORG'
+    U_2_2 OBJ 156.18311
+    U_2_2 RES_2 80
+    U_2_2 PMAX_2_2 -80
+    U_2_2 PMIN_2_2 -30.187682
+    U_2_2 SU_2_2 -1
+    U_2_2 SU_2_3 1
+    U_2_2 RU_2_3 -44.785476
+    U_2_2 RD_2_2 -44.785476
+    U_2_2 MUT_2_2 -1
+    U_2_2 MDT_2_2 1
+    MARKER 'MARKER' 'INTEND'
+    V_2_2 OBJ 1707.1461
+    V_2_2 SU_2_2 1
+    V_2_2 RU_2_2 -30.187682
+    V_2_2 MUT_2_2 1
+    W_2_2 SU_2_2 -1
+    W_2_2 RD_2_2 -80
+    W_2_2 MDT_2_2 1
+    W_2_2 MDT_2_3 1
+    W_2_2 MDT_2_4 1
+    W_2_2 MDT_2_5 1
+    P_2_2 OBJ 25.480289
+    P_2_2 DEM_2 1
+    P_2_2 PMAX_2_2 1
+    P_2_2 PMIN_2_2 1
+    P_2_2 RU_2_2 1
+    P_2_2 RD_2_2 -1
+    P_2_2 RU_2_3 -1
+    P_2_2 RD_2_3 1
+    MARKER 'MARKER' 'INTORG'
+    U_3_2 OBJ 493.66545
+    U_3_2 RES_2 150
+    U_3_2 PMAX_3_2 -150
+    U_3_2 PMIN_3_2 -62.663367
+    U_3_2 SU_3_2 -1
+    U_3_2 SU_3_3 1
+    U_3_2 RU_3_3 -78.171575
+    U_3_2 RD_3_2 -78.171575
+    U_3_2 MUT_3_2 -1
+    U_3_2 MDT_3_2 1
+    MARKER 'MARKER' 'INTEND'
+    V_3_2 OBJ 11452.503
+    V_3_2 SU_3_2 1
+    V_3_2 RU_3_2 -62.663367
+    V_3_2 MUT_3_2 1
+    V_3_2 MUT_3_3 1
+    V_3_2 MUT_3_4 1
+    W_3_2 SU_3_2 -1
+    W_3_2 RD_3_2 -150
+    W_3_2 MDT_3_2 1
+    W_3_2 MDT_3_3 1
+    P_3_2 OBJ 38.743324
+    P_3_2 DEM_2 1
+    P_3_2 PMAX_3_2 1
+    P_3_2 PMIN_3_2 1
+    P_3_2 RU_3_2 1
+    P_3_2 RD_3_2 -1
+    P_3_2 RU_3_3 -1
+    P_3_2 RD_3_3 1
+    MARKER 'MARKER' 'INTORG'
+    U_4_2 OBJ 425.78765
+    U_4_2 RES_2 400
+    U_4_2 PMAX_4_2 -400
+    U_4_2 PMIN_4_2 -135.15242
+    U_4_2 SU_4_2 -1
+    U_4_2 SU_4_3 1
+    U_4_2 RU_4_3 -209.03269
+    U_4_2 RD_4_2 -209.03269
+    U_4_2 MUT_4_2 -1
+    U_4_2 MDT_4_2 1
+    MARKER 'MARKER' 'INTEND'
+    V_4_2 OBJ 28101.871
+    V_4_2 SU_4_2 1
+    V_4_2 RU_4_2 -135.15242
+    V_4_2 MUT_4_2 1
+    W_4_2 SU_4_2 -1
+    W_4_2 RD_4_2 -400
+    W_4_2 MDT_4_2 1
+    W_4_2 MDT_4_3 1
+    P_4_2 OBJ 28.040173
+    P_4_2 DEM_2 1
+    P_4_2 PMAX_4_2 1
+    P_4_2 PMIN_4_2 1
+    P_4_2 RU_4_2 1
+    P_4_2 RD_4_2 -1
+    P_4_2 RU_4_3 -1
+    P_4_2 RD_4_3 1
+    MARKER 'MARKER' 'INTORG'
+    U_5_2 OBJ 599.42567
+    U_5_2 RES_2 300
+    U_5_2 PMAX_5_2 -300
+    U_5_2 PMIN_5_2 -137.39519
+    U_5_2 SU_5_2 -1
+    U_5_2 SU_5_3 1
+    U_5_2 RU_5_3 -175.34301
+    U_5_2 RD_5_2 -175.34301
+    U_5_2 MUT_5_2 -1
+    U_5_2 MDT_5_2 1
+    MARKER 'MARKER' 'INTEND'
+    V_5_2 OBJ 18986.719
+    V_5_2 SU_5_2 1
+    V_5_2 RU_5_2 -137.39519
+    V_5_2 MUT_5_2 1
+    V_5_2 MUT_5_3 1
+    V_5_2 MUT_5_4 1
+    V_5_2 MUT_5_5 1
+    W_5_2 SU_5_2 -1
+    W_5_2 RD_5_2 -300
+    W_5_2 MDT_5_2 1
+    W_5_2 MDT_5_3 1
+    P_5_2 OBJ 20.440048
+    P_5_2 DEM_2 1
+    P_5_2 PMAX_5_2 1
+    P_5_2 PMIN_5_2 1
+    P_5_2 RU_5_2 1
+    P_5_2 RD_5_2 -1
+    P_5_2 RU_5_3 -1
+    P_5_2 RD_5_3 1
+    MARKER 'MARKER' 'INTORG'
+    U_6_2 OBJ 764.54809
+    U_6_2 RES_2 200
+    U_6_2 PMAX_6_2 -200
+    U_6_2 PMIN_6_2 -98.407084
+    U_6_2 SU_6_2 -1
+    U_6_2 SU_6_3 1
+    U_6_2 RU_6_3 -128.26304
+    U_6_2 RD_6_2 -128.26304
+    U_6_2 MUT_6_2 -1
+    U_6_2 MDT_6_2 1
+    MARKER 'MARKER' 'INTEND'
+    V_6_2 OBJ 8720.2435
+    V_6_2 SU_6_2 1
+    V_6_2 RU_6_2 -98.407084
+    V_6_2 MUT_6_2 1
+    V_6_2 MUT_6_3 1
+    V_6_2 MUT_6_4 1
+    V_6_2 MUT_6_5 1
+    W_6_2 SU_6_2 -1
+    W_6_2 RD_6_2 -200
+    W_6_2 MDT_6_2 1
+    W_6_2 MDT_6_3 1
+    P_6_2 OBJ 37.471293
+    P_6_2 DEM_2 1
+    P_6_2 PMAX_6_2 1
+    P_6_2 PMIN_6_2 1
+    P_6_2 RU_6_2 1
+    P_6_2 RD_6_2 -1
+    P_6_2 RU_6_3 -1
+    P_6_2 RD_6_3 1
+    MARKER 'MARKER' 'INTORG'
+    U_7_2 OBJ 396.95944
+    U_7_2 RES_2 150
+    U_7_2 PMAX_7_2 -150
+    U_7_2 PMIN_7_2 -48.64413
+    U_7_2 SU_7_2 -1
+    U_7_2 SU_7_3 1
+    U_7_2 RU_7_3 -85.46915
+    U_7_2 RD_7_2 -85.46915
+    U_7_2 MUT_7_2 -1
+    U_7_2 MDT_7_2 1
+    MARKER 'MARKER' 'INTEND'
+    V_7_2 OBJ 9327.3669
+    V_7_2 SU_7_2 1
+    V_7_2 RU_7_2 -48.64413
+    V_7_2 MUT_7_2 1
+    V_7_2 MUT_7_3 1
+    V_7_2 MUT_7_4 1
+    W_7_2 SU_7_2 -1
+    W_7_2 RD_7_2 -150
+    W_7_2 MDT_7_2 1
+    P_7_2 OBJ 22.785333
+    P_7_2 DEM_2 1
+    P_7_2 PMAX_7_2 1
+    P_7_2 PMIN_7_2 1
+    P_7_2 RU_7_2 1
+    P_7_2 RD_7_2 -1
+    P_7_2 RU_7_3 -1
+    P_7_2 RD_7_3 1
+    SHED_2 OBJ 1000
+    SHED_2 DEM_2 1
+    SHED_2 RES_2 1.1
+    MARKER 'MARKER' 'INTORG'
+    U_0_3 OBJ 95.145637
+    U_0_3 RES_3 80
+    U_0_3 PMAX_0_3 -80
+    U_0_3 PMIN_0_3 -29.660893
+    U_0_3 SU_0_3 -1
+    U_0_3 SU_0_4 1
+    U_0_3 RU_0_4 -48.350798
+    U_0_3 RD_0_3 -48.350798
+    U_0_3 MUT_0_3 -1
+    U_0_3 MDT_0_3 1
+    MARKER 'MARKER' 'INTEND'
+    V_0_3 OBJ 2166.0098
+    V_0_3 SU_0_3 1
+    V_0_3 RU_0_3 -29.660893
+    V_0_3 MUT_0_3 1
+    V_0_3 MUT_0_4 1
+    V_0_3 MUT_0_5 1
+    V_0_3 MUT_0_6 1
+    W_0_3 SU_0_3 -1
+    W_0_3 RD_0_3 -80
+    W_0_3 MDT_0_3 1
+    W_0_3 MDT_0_4 1
+    W_0_3 MDT_0_5 1
+    W_0_3 MDT_0_6 1
+    P_0_3 OBJ 66.432506
+    P_0_3 DEM_3 1
+    P_0_3 PMAX_0_3 1
+    P_0_3 PMIN_0_3 1
+    P_0_3 RU_0_3 1
+    P_0_3 RD_0_3 -1
+    P_0_3 RU_0_4 -1
+    P_0_3 RD_0_4 1
+    MARKER 'MARKER' 'INTORG'
+    U_1_3 OBJ 108.47132
+    U_1_3 RES_3 50
+    U_1_3 PMAX_1_3 -50
+    U_1_3 PMIN_1_3 -17.31785
+    U_1_3 SU_1_3 -1
+    U_1_3 SU_1_4 1
+    U_1_3 RU_1_4 -30.343153
+    U_1_3 RD_1_3 -30.343153
+    U_1_3 MUT_1_3 -1
+    U_1_3 MDT_1_3 1
+    MARKER 'MARKER' 'INTEND'
+    V_1_3 OBJ 2822.314
+    V_1_3 SU_1_3 1
+    V_1_3 RU_1_3 -17.31785
+    V_1_3 MUT_1_3 1
+    V_1_3 MUT_1_4 1
+    V_1_3 MUT_1_5 1
+    V_1_3 MUT_1_6 1
+    W_1_3 SU_1_3 -1
+    W_1_3 RD_1_3 -50
+    W_1_3 MDT_1_3 1
+    W_1_3 MDT_1_4 1
+    W_1_3 MDT_1_5 1
+    P_1_3 OBJ 71.759047
+    P_1_3 DEM_3 1
+    P_1_3 PMAX_1_3 1
+    P_1_3 PMIN_1_3 1
+    P_1_3 RU_1_3 1
+    P_1_3 RD_1_3 -1
+    P_1_3 RU_1_4 -1
+    P_1_3 RD_1_4 1
+    MARKER 'MARKER' 'INTORG'
+    U_2_3 OBJ 156.18311
+    U_2_3 RES_3 80
+    U_2_3 PMAX_2_3 -80
+    U_2_3 PMIN_2_3 -30.187682
+    U_2_3 SU_2_3 -1
+    U_2_3 SU_2_4 1
+    U_2_3 RU_2_4 -44.785476
+    U_2_3 RD_2_3 -44.785476
+    U_2_3 MUT_2_3 -1
+    U_2_3 MDT_2_3 1
+    MARKER 'MARKER' 'INTEND'
+    V_2_3 OBJ 1707.1461
+    V_2_3 SU_2_3 1
+    V_2_3 RU_2_3 -30.187682
+    V_2_3 MUT_2_3 1
+    W_2_3 SU_2_3 -1
+    W_2_3 RD_2_3 -80
+    W_2_3 MDT_2_3 1
+    W_2_3 MDT_2_4 1
+    W_2_3 MDT_2_5 1
+    W_2_3 MDT_2_6 1
+    P_2_3 OBJ 25.480289
+    P_2_3 DEM_3 1
+    P_2_3 PMAX_2_3 1
+    P_2_3 PMIN_2_3 1
+    P_2_3 RU_2_3 1
+    P_2_3 RD_2_3 -1
+    P_2_3 RU_2_4 -1
+    P_2_3 RD_2_4 1
+    MARKER 'MARKER' 'INTORG'
+    U_3_3 OBJ 493.66545
+    U_3_3 RES_3 150
+    U_3_3 PMAX_3_3 -150
+    U_3_3 PMIN_3_3 -62.663367
+    U_3_3 SU_3_3 -1
+    U_3_3 SU_3_4 1
+    U_3_3 RU_3_4 -78.171575
+    U_3_3 RD_3_3 -78.171575
+    U_3_3 MUT_3_3 -1
+    U_3_3 MDT_3_3 1
+    MARKER 'MARKER' 'INTEND'
+    V_3_3 OBJ 11452.503
+    V_3_3 SU_3_3 1
+    V_3_3 RU_3_3 -62.663367
+    V_3_3 MUT_3_3 1
+    V_3_3 MUT_3_4 1
+    V_3_3 MUT_3_5 1
+    W_3_3 SU_3_3 -1
+    W_3_3 RD_3_3 -150
+    W_3_3 MDT_3_3 1
+    W_3_3 MDT_3_4 1
+    P_3_3 OBJ 38.743324
+    P_3_3 DEM_3 1
+    P_3_3 PMAX_3_3 1
+    P_3_3 PMIN_3_3 1
+    P_3_3 RU_3_3 1
+    P_3_3 RD_3_3 -1
+    P_3_3 RU_3_4 -1
+    P_3_3 RD_3_4 1
+    MARKER 'MARKER' 'INTORG'
+    U_4_3 OBJ 425.78765
+    U_4_3 RES_3 400
+    U_4_3 PMAX_4_3 -400
+    U_4_3 PMIN_4_3 -135.15242
+    U_4_3 SU_4_3 -1
+    U_4_3 SU_4_4 1
+    U_4_3 RU_4_4 -209.03269
+    U_4_3 RD_4_3 -209.03269
+    U_4_3 MUT_4_3 -1
+    U_4_3 MDT_4_3 1
+    MARKER 'MARKER' 'INTEND'
+    V_4_3 OBJ 28101.871
+    V_4_3 SU_4_3 1
+    V_4_3 RU_4_3 -135.15242
+    V_4_3 MUT_4_3 1
+    W_4_3 SU_4_3 -1
+    W_4_3 RD_4_3 -400
+    W_4_3 MDT_4_3 1
+    W_4_3 MDT_4_4 1
+    P_4_3 OBJ 28.040173
+    P_4_3 DEM_3 1
+    P_4_3 PMAX_4_3 1
+    P_4_3 PMIN_4_3 1
+    P_4_3 RU_4_3 1
+    P_4_3 RD_4_3 -1
+    P_4_3 RU_4_4 -1
+    P_4_3 RD_4_4 1
+    MARKER 'MARKER' 'INTORG'
+    U_5_3 OBJ 599.42567
+    U_5_3 RES_3 300
+    U_5_3 PMAX_5_3 -300
+    U_5_3 PMIN_5_3 -137.39519
+    U_5_3 SU_5_3 -1
+    U_5_3 SU_5_4 1
+    U_5_3 RU_5_4 -175.34301
+    U_5_3 RD_5_3 -175.34301
+    U_5_3 MUT_5_3 -1
+    U_5_3 MDT_5_3 1
+    MARKER 'MARKER' 'INTEND'
+    V_5_3 OBJ 18986.719
+    V_5_3 SU_5_3 1
+    V_5_3 RU_5_3 -137.39519
+    V_5_3 MUT_5_3 1
+    V_5_3 MUT_5_4 1
+    V_5_3 MUT_5_5 1
+    V_5_3 MUT_5_6 1
+    W_5_3 SU_5_3 -1
+    W_5_3 RD_5_3 -300
+    W_5_3 MDT_5_3 1
+    W_5_3 MDT_5_4 1
+    P_5_3 OBJ 20.440048
+    P_5_3 DEM_3 1
+    P_5_3 PMAX_5_3 1
+    P_5_3 PMIN_5_3 1
+    P_5_3 RU_5_3 1
+    P_5_3 RD_5_3 -1
+    P_5_3 RU_5_4 -1
+    P_5_3 RD_5_4 1
+    MARKER 'MARKER' 'INTORG'
+    U_6_3 OBJ 764.54809
+    U_6_3 RES_3 200
+    U_6_3 PMAX_6_3 -200
+    U_6_3 PMIN_6_3 -98.407084
+    U_6_3 SU_6_3 -1
+    U_6_3 SU_6_4 1
+    U_6_3 RU_6_4 -128.26304
+    U_6_3 RD_6_3 -128.26304
+    U_6_3 MUT_6_3 -1
+    U_6_3 MDT_6_3 1
+    MARKER 'MARKER' 'INTEND'
+    V_6_3 OBJ 8720.2435
+    V_6_3 SU_6_3 1
+    V_6_3 RU_6_3 -98.407084
+    V_6_3 MUT_6_3 1
+    V_6_3 MUT_6_4 1
+    V_6_3 MUT_6_5 1
+    V_6_3 MUT_6_6 1
+    W_6_3 SU_6_3 -1
+    W_6_3 RD_6_3 -200
+    W_6_3 MDT_6_3 1
+    W_6_3 MDT_6_4 1
+    P_6_3 OBJ 37.471293
+    P_6_3 DEM_3 1
+    P_6_3 PMAX_6_3 1
+    P_6_3 PMIN_6_3 1
+    P_6_3 RU_6_3 1
+    P_6_3 RD_6_3 -1
+    P_6_3 RU_6_4 -1
+    P_6_3 RD_6_4 1
+    MARKER 'MARKER' 'INTORG'
+    U_7_3 OBJ 396.95944
+    U_7_3 RES_3 150
+    U_7_3 PMAX_7_3 -150
+    U_7_3 PMIN_7_3 -48.64413
+    U_7_3 SU_7_3 -1
+    U_7_3 SU_7_4 1
+    U_7_3 RU_7_4 -85.46915
+    U_7_3 RD_7_3 -85.46915
+    U_7_3 MUT_7_3 -1
+    U_7_3 MDT_7_3 1
+    MARKER 'MARKER' 'INTEND'
+    V_7_3 OBJ 9327.3669
+    V_7_3 SU_7_3 1
+    V_7_3 RU_7_3 -48.64413
+    V_7_3 MUT_7_3 1
+    V_7_3 MUT_7_4 1
+    V_7_3 MUT_7_5 1
+    W_7_3 SU_7_3 -1
+    W_7_3 RD_7_3 -150
+    W_7_3 MDT_7_3 1
+    P_7_3 OBJ 22.785333
+    P_7_3 DEM_3 1
+    P_7_3 PMAX_7_3 1
+    P_7_3 PMIN_7_3 1
+    P_7_3 RU_7_3 1
+    P_7_3 RD_7_3 -1
+    P_7_3 RU_7_4 -1
+    P_7_3 RD_7_4 1
+    SHED_3 OBJ 1000
+    SHED_3 DEM_3 1
+    SHED_3 RES_3 1.1
+    MARKER 'MARKER' 'INTORG'
+    U_0_4 OBJ 95.145637
+    U_0_4 RES_4 80
+    U_0_4 PMAX_0_4 -80
+    U_0_4 PMIN_0_4 -29.660893
+    U_0_4 SU_0_4 -1
+    U_0_4 SU_0_5 1
+    U_0_4 RU_0_5 -48.350798
+    U_0_4 RD_0_4 -48.350798
+    U_0_4 MUT_0_4 -1
+    U_0_4 MDT_0_4 1
+    MARKER 'MARKER' 'INTEND'
+    V_0_4 OBJ 2166.0098
+    V_0_4 SU_0_4 1
+    V_0_4 RU_0_4 -29.660893
+    V_0_4 MUT_0_4 1
+    V_0_4 MUT_0_5 1
+    V_0_4 MUT_0_6 1
+    V_0_4 MUT_0_7 1
+    W_0_4 SU_0_4 -1
+    W_0_4 RD_0_4 -80
+    W_0_4 MDT_0_4 1
+    W_0_4 MDT_0_5 1
+    W_0_4 MDT_0_6 1
+    W_0_4 MDT_0_7 1
+    P_0_4 OBJ 66.432506
+    P_0_4 DEM_4 1
+    P_0_4 PMAX_0_4 1
+    P_0_4 PMIN_0_4 1
+    P_0_4 RU_0_4 1
+    P_0_4 RD_0_4 -1
+    P_0_4 RU_0_5 -1
+    P_0_4 RD_0_5 1
+    MARKER 'MARKER' 'INTORG'
+    U_1_4 OBJ 108.47132
+    U_1_4 RES_4 50
+    U_1_4 PMAX_1_4 -50
+    U_1_4 PMIN_1_4 -17.31785
+    U_1_4 SU_1_4 -1
+    U_1_4 SU_1_5 1
+    U_1_4 RU_1_5 -30.343153
+    U_1_4 RD_1_4 -30.343153
+    U_1_4 MUT_1_4 -1
+    U_1_4 MDT_1_4 1
+    MARKER 'MARKER' 'INTEND'
+    V_1_4 OBJ 2822.314
+    V_1_4 SU_1_4 1
+    V_1_4 RU_1_4 -17.31785
+    V_1_4 MUT_1_4 1
+    V_1_4 MUT_1_5 1
+    V_1_4 MUT_1_6 1
+    V_1_4 MUT_1_7 1
+    W_1_4 SU_1_4 -1
+    W_1_4 RD_1_4 -50
+    W_1_4 MDT_1_4 1
+    W_1_4 MDT_1_5 1
+    W_1_4 MDT_1_6 1
+    P_1_4 OBJ 71.759047
+    P_1_4 DEM_4 1
+    P_1_4 PMAX_1_4 1
+    P_1_4 PMIN_1_4 1
+    P_1_4 RU_1_4 1
+    P_1_4 RD_1_4 -1
+    P_1_4 RU_1_5 -1
+    P_1_4 RD_1_5 1
+    MARKER 'MARKER' 'INTORG'
+    U_2_4 OBJ 156.18311
+    U_2_4 RES_4 80
+    U_2_4 PMAX_2_4 -80
+    U_2_4 PMIN_2_4 -30.187682
+    U_2_4 SU_2_4 -1
+    U_2_4 SU_2_5 1
+    U_2_4 RU_2_5 -44.785476
+    U_2_4 RD_2_4 -44.785476
+    U_2_4 MUT_2_4 -1
+    U_2_4 MDT_2_4 1
+    MARKER 'MARKER' 'INTEND'
+    V_2_4 OBJ 1707.1461
+    V_2_4 SU_2_4 1
+    V_2_4 RU_2_4 -30.187682
+    V_2_4 MUT_2_4 1
+    W_2_4 SU_2_4 -1
+    W_2_4 RD_2_4 -80
+    W_2_4 MDT_2_4 1
+    W_2_4 MDT_2_5 1
+    W_2_4 MDT_2_6 1
+    W_2_4 MDT_2_7 1
+    P_2_4 OBJ 25.480289
+    P_2_4 DEM_4 1
+    P_2_4 PMAX_2_4 1
+    P_2_4 PMIN_2_4 1
+    P_2_4 RU_2_4 1
+    P_2_4 RD_2_4 -1
+    P_2_4 RU_2_5 -1
+    P_2_4 RD_2_5 1
+    MARKER 'MARKER' 'INTORG'
+    U_3_4 OBJ 493.66545
+    U_3_4 RES_4 150
+    U_3_4 PMAX_3_4 -150
+    U_3_4 PMIN_3_4 -62.663367
+    U_3_4 SU_3_4 -1
+    U_3_4 SU_3_5 1
+    U_3_4 RU_3_5 -78.171575
+    U_3_4 RD_3_4 -78.171575
+    U_3_4 MUT_3_4 -1
+    U_3_4 MDT_3_4 1
+    MARKER 'MARKER' 'INTEND'
+    V_3_4 OBJ 11452.503
+    V_3_4 SU_3_4 1
+    V_3_4 RU_3_4 -62.663367
+    V_3_4 MUT_3_4 1
+    V_3_4 MUT_3_5 1
+    V_3_4 MUT_3_6 1
+    W_3_4 SU_3_4 -1
+    W_3_4 RD_3_4 -150
+    W_3_4 MDT_3_4 1
+    W_3_4 MDT_3_5 1
+    P_3_4 OBJ 38.743324
+    P_3_4 DEM_4 1
+    P_3_4 PMAX_3_4 1
+    P_3_4 PMIN_3_4 1
+    P_3_4 RU_3_4 1
+    P_3_4 RD_3_4 -1
+    P_3_4 RU_3_5 -1
+    P_3_4 RD_3_5 1
+    MARKER 'MARKER' 'INTORG'
+    U_4_4 OBJ 425.78765
+    U_4_4 RES_4 400
+    U_4_4 PMAX_4_4 -400
+    U_4_4 PMIN_4_4 -135.15242
+    U_4_4 SU_4_4 -1
+    U_4_4 SU_4_5 1
+    U_4_4 RU_4_5 -209.03269
+    U_4_4 RD_4_4 -209.03269
+    U_4_4 MUT_4_4 -1
+    U_4_4 MDT_4_4 1
+    MARKER 'MARKER' 'INTEND'
+    V_4_4 OBJ 28101.871
+    V_4_4 SU_4_4 1
+    V_4_4 RU_4_4 -135.15242
+    V_4_4 MUT_4_4 1
+    W_4_4 SU_4_4 -1
+    W_4_4 RD_4_4 -400
+    W_4_4 MDT_4_4 1
+    W_4_4 MDT_4_5 1
+    P_4_4 OBJ 28.040173
+    P_4_4 DEM_4 1
+    P_4_4 PMAX_4_4 1
+    P_4_4 PMIN_4_4 1
+    P_4_4 RU_4_4 1
+    P_4_4 RD_4_4 -1
+    P_4_4 RU_4_5 -1
+    P_4_4 RD_4_5 1
+    MARKER 'MARKER' 'INTORG'
+    U_5_4 OBJ 599.42567
+    U_5_4 RES_4 300
+    U_5_4 PMAX_5_4 -300
+    U_5_4 PMIN_5_4 -137.39519
+    U_5_4 SU_5_4 -1
+    U_5_4 SU_5_5 1
+    U_5_4 RU_5_5 -175.34301
+    U_5_4 RD_5_4 -175.34301
+    U_5_4 MUT_5_4 -1
+    U_5_4 MDT_5_4 1
+    MARKER 'MARKER' 'INTEND'
+    V_5_4 OBJ 18986.719
+    V_5_4 SU_5_4 1
+    V_5_4 RU_5_4 -137.39519
+    V_5_4 MUT_5_4 1
+    V_5_4 MUT_5_5 1
+    V_5_4 MUT_5_6 1
+    V_5_4 MUT_5_7 1
+    W_5_4 SU_5_4 -1
+    W_5_4 RD_5_4 -300
+    W_5_4 MDT_5_4 1
+    W_5_4 MDT_5_5 1
+    P_5_4 OBJ 20.440048
+    P_5_4 DEM_4 1
+    P_5_4 PMAX_5_4 1
+    P_5_4 PMIN_5_4 1
+    P_5_4 RU_5_4 1
+    P_5_4 RD_5_4 -1
+    P_5_4 RU_5_5 -1
+    P_5_4 RD_5_5 1
+    MARKER 'MARKER' 'INTORG'
+    U_6_4 OBJ 764.54809
+    U_6_4 RES_4 200
+    U_6_4 PMAX_6_4 -200
+    U_6_4 PMIN_6_4 -98.407084
+    U_6_4 SU_6_4 -1
+    U_6_4 SU_6_5 1
+    U_6_4 RU_6_5 -128.26304
+    U_6_4 RD_6_4 -128.26304
+    U_6_4 MUT_6_4 -1
+    U_6_4 MDT_6_4 1
+    MARKER 'MARKER' 'INTEND'
+    V_6_4 OBJ 8720.2435
+    V_6_4 SU_6_4 1
+    V_6_4 RU_6_4 -98.407084
+    V_6_4 MUT_6_4 1
+    V_6_4 MUT_6_5 1
+    V_6_4 MUT_6_6 1
+    V_6_4 MUT_6_7 1
+    W_6_4 SU_6_4 -1
+    W_6_4 RD_6_4 -200
+    W_6_4 MDT_6_4 1
+    W_6_4 MDT_6_5 1
+    P_6_4 OBJ 37.471293
+    P_6_4 DEM_4 1
+    P_6_4 PMAX_6_4 1
+    P_6_4 PMIN_6_4 1
+    P_6_4 RU_6_4 1
+    P_6_4 RD_6_4 -1
+    P_6_4 RU_6_5 -1
+    P_6_4 RD_6_5 1
+    MARKER 'MARKER' 'INTORG'
+    U_7_4 OBJ 396.95944
+    U_7_4 RES_4 150
+    U_7_4 PMAX_7_4 -150
+    U_7_4 PMIN_7_4 -48.64413
+    U_7_4 SU_7_4 -1
+    U_7_4 SU_7_5 1
+    U_7_4 RU_7_5 -85.46915
+    U_7_4 RD_7_4 -85.46915
+    U_7_4 MUT_7_4 -1
+    U_7_4 MDT_7_4 1
+    MARKER 'MARKER' 'INTEND'
+    V_7_4 OBJ 9327.3669
+    V_7_4 SU_7_4 1
+    V_7_4 RU_7_4 -48.64413
+    V_7_4 MUT_7_4 1
+    V_7_4 MUT_7_5 1
+    V_7_4 MUT_7_6 1
+    W_7_4 SU_7_4 -1
+    W_7_4 RD_7_4 -150
+    W_7_4 MDT_7_4 1
+    P_7_4 OBJ 22.785333
+    P_7_4 DEM_4 1
+    P_7_4 PMAX_7_4 1
+    P_7_4 PMIN_7_4 1
+    P_7_4 RU_7_4 1
+    P_7_4 RD_7_4 -1
+    P_7_4 RU_7_5 -1
+    P_7_4 RD_7_5 1
+    SHED_4 OBJ 1000
+    SHED_4 DEM_4 1
+    SHED_4 RES_4 1.1
+    MARKER 'MARKER' 'INTORG'
+    U_0_5 OBJ 95.145637
+    U_0_5 RES_5 80
+    U_0_5 PMAX_0_5 -80
+    U_0_5 PMIN_0_5 -29.660893
+    U_0_5 SU_0_5 -1
+    U_0_5 SU_0_6 1
+    U_0_5 RU_0_6 -48.350798
+    U_0_5 RD_0_5 -48.350798
+    U_0_5 MUT_0_5 -1
+    U_0_5 MDT_0_5 1
+    MARKER 'MARKER' 'INTEND'
+    V_0_5 OBJ 2166.0098
+    V_0_5 SU_0_5 1
+    V_0_5 RU_0_5 -29.660893
+    V_0_5 MUT_0_5 1
+    V_0_5 MUT_0_6 1
+    V_0_5 MUT_0_7 1
+    V_0_5 MUT_0_8 1
+    W_0_5 SU_0_5 -1
+    W_0_5 RD_0_5 -80
+    W_0_5 MDT_0_5 1
+    W_0_5 MDT_0_6 1
+    W_0_5 MDT_0_7 1
+    W_0_5 MDT_0_8 1
+    P_0_5 OBJ 66.432506
+    P_0_5 DEM_5 1
+    P_0_5 PMAX_0_5 1
+    P_0_5 PMIN_0_5 1
+    P_0_5 RU_0_5 1
+    P_0_5 RD_0_5 -1
+    P_0_5 RU_0_6 -1
+    P_0_5 RD_0_6 1
+    MARKER 'MARKER' 'INTORG'
+    U_1_5 OBJ 108.47132
+    U_1_5 RES_5 50
+    U_1_5 PMAX_1_5 -50
+    U_1_5 PMIN_1_5 -17.31785
+    U_1_5 SU_1_5 -1
+    U_1_5 SU_1_6 1
+    U_1_5 RU_1_6 -30.343153
+    U_1_5 RD_1_5 -30.343153
+    U_1_5 MUT_1_5 -1
+    U_1_5 MDT_1_5 1
+    MARKER 'MARKER' 'INTEND'
+    V_1_5 OBJ 2822.314
+    V_1_5 SU_1_5 1
+    V_1_5 RU_1_5 -17.31785
+    V_1_5 MUT_1_5 1
+    V_1_5 MUT_1_6 1
+    V_1_5 MUT_1_7 1
+    V_1_5 MUT_1_8 1
+    W_1_5 SU_1_5 -1
+    W_1_5 RD_1_5 -50
+    W_1_5 MDT_1_5 1
+    W_1_5 MDT_1_6 1
+    W_1_5 MDT_1_7 1
+    P_1_5 OBJ 71.759047
+    P_1_5 DEM_5 1
+    P_1_5 PMAX_1_5 1
+    P_1_5 PMIN_1_5 1
+    P_1_5 RU_1_5 1
+    P_1_5 RD_1_5 -1
+    P_1_5 RU_1_6 -1
+    P_1_5 RD_1_6 1
+    MARKER 'MARKER' 'INTORG'
+    U_2_5 OBJ 156.18311
+    U_2_5 RES_5 80
+    U_2_5 PMAX_2_5 -80
+    U_2_5 PMIN_2_5 -30.187682
+    U_2_5 SU_2_5 -1
+    U_2_5 SU_2_6 1
+    U_2_5 RU_2_6 -44.785476
+    U_2_5 RD_2_5 -44.785476
+    U_2_5 MUT_2_5 -1
+    U_2_5 MDT_2_5 1
+    MARKER 'MARKER' 'INTEND'
+    V_2_5 OBJ 1707.1461
+    V_2_5 SU_2_5 1
+    V_2_5 RU_2_5 -30.187682
+    V_2_5 MUT_2_5 1
+    W_2_5 SU_2_5 -1
+    W_2_5 RD_2_5 -80
+    W_2_5 MDT_2_5 1
+    W_2_5 MDT_2_6 1
+    W_2_5 MDT_2_7 1
+    W_2_5 MDT_2_8 1
+    P_2_5 OBJ 25.480289
+    P_2_5 DEM_5 1
+    P_2_5 PMAX_2_5 1
+    P_2_5 PMIN_2_5 1
+    P_2_5 RU_2_5 1
+    P_2_5 RD_2_5 -1
+    P_2_5 RU_2_6 -1
+    P_2_5 RD_2_6 1
+    MARKER 'MARKER' 'INTORG'
+    U_3_5 OBJ 493.66545
+    U_3_5 RES_5 150
+    U_3_5 PMAX_3_5 -150
+    U_3_5 PMIN_3_5 -62.663367
+    U_3_5 SU_3_5 -1
+    U_3_5 SU_3_6 1
+    U_3_5 RU_3_6 -78.171575
+    U_3_5 RD_3_5 -78.171575
+    U_3_5 MUT_3_5 -1
+    U_3_5 MDT_3_5 1
+    MARKER 'MARKER' 'INTEND'
+    V_3_5 OBJ 11452.503
+    V_3_5 SU_3_5 1
+    V_3_5 RU_3_5 -62.663367
+    V_3_5 MUT_3_5 1
+    V_3_5 MUT_3_6 1
+    V_3_5 MUT_3_7 1
+    W_3_5 SU_3_5 -1
+    W_3_5 RD_3_5 -150
+    W_3_5 MDT_3_5 1
+    W_3_5 MDT_3_6 1
+    P_3_5 OBJ 38.743324
+    P_3_5 DEM_5 1
+    P_3_5 PMAX_3_5 1
+    P_3_5 PMIN_3_5 1
+    P_3_5 RU_3_5 1
+    P_3_5 RD_3_5 -1
+    P_3_5 RU_3_6 -1
+    P_3_5 RD_3_6 1
+    MARKER 'MARKER' 'INTORG'
+    U_4_5 OBJ 425.78765
+    U_4_5 RES_5 400
+    U_4_5 PMAX_4_5 -400
+    U_4_5 PMIN_4_5 -135.15242
+    U_4_5 SU_4_5 -1
+    U_4_5 SU_4_6 1
+    U_4_5 RU_4_6 -209.03269
+    U_4_5 RD_4_5 -209.03269
+    U_4_5 MUT_4_5 -1
+    U_4_5 MDT_4_5 1
+    MARKER 'MARKER' 'INTEND'
+    V_4_5 OBJ 28101.871
+    V_4_5 SU_4_5 1
+    V_4_5 RU_4_5 -135.15242
+    V_4_5 MUT_4_5 1
+    W_4_5 SU_4_5 -1
+    W_4_5 RD_4_5 -400
+    W_4_5 MDT_4_5 1
+    W_4_5 MDT_4_6 1
+    P_4_5 OBJ 28.040173
+    P_4_5 DEM_5 1
+    P_4_5 PMAX_4_5 1
+    P_4_5 PMIN_4_5 1
+    P_4_5 RU_4_5 1
+    P_4_5 RD_4_5 -1
+    P_4_5 RU_4_6 -1
+    P_4_5 RD_4_6 1
+    MARKER 'MARKER' 'INTORG'
+    U_5_5 OBJ 599.42567
+    U_5_5 RES_5 300
+    U_5_5 PMAX_5_5 -300
+    U_5_5 PMIN_5_5 -137.39519
+    U_5_5 SU_5_5 -1
+    U_5_5 SU_5_6 1
+    U_5_5 RU_5_6 -175.34301
+    U_5_5 RD_5_5 -175.34301
+    U_5_5 MUT_5_5 -1
+    U_5_5 MDT_5_5 1
+    MARKER 'MARKER' 'INTEND'
+    V_5_5 OBJ 18986.719
+    V_5_5 SU_5_5 1
+    V_5_5 RU_5_5 -137.39519
+    V_5_5 MUT_5_5 1
+    V_5_5 MUT_5_6 1
+    V_5_5 MUT_5_7 1
+    V_5_5 MUT_5_8 1
+    W_5_5 SU_5_5 -1
+    W_5_5 RD_5_5 -300
+    W_5_5 MDT_5_5 1
+    W_5_5 MDT_5_6 1
+    P_5_5 OBJ 20.440048
+    P_5_5 DEM_5 1
+    P_5_5 PMAX_5_5 1
+    P_5_5 PMIN_5_5 1
+    P_5_5 RU_5_5 1
+    P_5_5 RD_5_5 -1
+    P_5_5 RU_5_6 -1
+    P_5_5 RD_5_6 1
+    MARKER 'MARKER' 'INTORG'
+    U_6_5 OBJ 764.54809
+    U_6_5 RES_5 200
+    U_6_5 PMAX_6_5 -200
+    U_6_5 PMIN_6_5 -98.407084
+    U_6_5 SU_6_5 -1
+    U_6_5 SU_6_6 1
+    U_6_5 RU_6_6 -128.26304
+    U_6_5 RD_6_5 -128.26304
+    U_6_5 MUT_6_5 -1
+    U_6_5 MDT_6_5 1
+    MARKER 'MARKER' 'INTEND'
+    V_6_5 OBJ 8720.2435
+    V_6_5 SU_6_5 1
+    V_6_5 RU_6_5 -98.407084
+    V_6_5 MUT_6_5 1
+    V_6_5 MUT_6_6 1
+    V_6_5 MUT_6_7 1
+    V_6_5 MUT_6_8 1
+    W_6_5 SU_6_5 -1
+    W_6_5 RD_6_5 -200
+    W_6_5 MDT_6_5 1
+    W_6_5 MDT_6_6 1
+    P_6_5 OBJ 37.471293
+    P_6_5 DEM_5 1
+    P_6_5 PMAX_6_5 1
+    P_6_5 PMIN_6_5 1
+    P_6_5 RU_6_5 1
+    P_6_5 RD_6_5 -1
+    P_6_5 RU_6_6 -1
+    P_6_5 RD_6_6 1
+    MARKER 'MARKER' 'INTORG'
+    U_7_5 OBJ 396.95944
+    U_7_5 RES_5 150
+    U_7_5 PMAX_7_5 -150
+    U_7_5 PMIN_7_5 -48.64413
+    U_7_5 SU_7_5 -1
+    U_7_5 SU_7_6 1
+    U_7_5 RU_7_6 -85.46915
+    U_7_5 RD_7_5 -85.46915
+    U_7_5 MUT_7_5 -1
+    U_7_5 MDT_7_5 1
+    MARKER 'MARKER' 'INTEND'
+    V_7_5 OBJ 9327.3669
+    V_7_5 SU_7_5 1
+    V_7_5 RU_7_5 -48.64413
+    V_7_5 MUT_7_5 1
+    V_7_5 MUT_7_6 1
+    V_7_5 MUT_7_7 1
+    W_7_5 SU_7_5 -1
+    W_7_5 RD_7_5 -150
+    W_7_5 MDT_7_5 1
+    P_7_5 OBJ 22.785333
+    P_7_5 DEM_5 1
+    P_7_5 PMAX_7_5 1
+    P_7_5 PMIN_7_5 1
+    P_7_5 RU_7_5 1
+    P_7_5 RD_7_5 -1
+    P_7_5 RU_7_6 -1
+    P_7_5 RD_7_6 1
+    SHED_5 OBJ 1000
+    SHED_5 DEM_5 1
+    SHED_5 RES_5 1.1
+    MARKER 'MARKER' 'INTORG'
+    U_0_6 OBJ 95.145637
+    U_0_6 RES_6 80
+    U_0_6 PMAX_0_6 -80
+    U_0_6 PMIN_0_6 -29.660893
+    U_0_6 SU_0_6 -1
+    U_0_6 SU_0_7 1
+    U_0_6 RU_0_7 -48.350798
+    U_0_6 RD_0_6 -48.350798
+    U_0_6 MUT_0_6 -1
+    U_0_6 MDT_0_6 1
+    MARKER 'MARKER' 'INTEND'
+    V_0_6 OBJ 2166.0098
+    V_0_6 SU_0_6 1
+    V_0_6 RU_0_6 -29.660893
+    V_0_6 MUT_0_6 1
+    V_0_6 MUT_0_7 1
+    V_0_6 MUT_0_8 1
+    V_0_6 MUT_0_9 1
+    W_0_6 SU_0_6 -1
+    W_0_6 RD_0_6 -80
+    W_0_6 MDT_0_6 1
+    W_0_6 MDT_0_7 1
+    W_0_6 MDT_0_8 1
+    W_0_6 MDT_0_9 1
+    P_0_6 OBJ 66.432506
+    P_0_6 DEM_6 1
+    P_0_6 PMAX_0_6 1
+    P_0_6 PMIN_0_6 1
+    P_0_6 RU_0_6 1
+    P_0_6 RD_0_6 -1
+    P_0_6 RU_0_7 -1
+    P_0_6 RD_0_7 1
+    MARKER 'MARKER' 'INTORG'
+    U_1_6 OBJ 108.47132
+    U_1_6 RES_6 50
+    U_1_6 PMAX_1_6 -50
+    U_1_6 PMIN_1_6 -17.31785
+    U_1_6 SU_1_6 -1
+    U_1_6 SU_1_7 1
+    U_1_6 RU_1_7 -30.343153
+    U_1_6 RD_1_6 -30.343153
+    U_1_6 MUT_1_6 -1
+    U_1_6 MDT_1_6 1
+    MARKER 'MARKER' 'INTEND'
+    V_1_6 OBJ 2822.314
+    V_1_6 SU_1_6 1
+    V_1_6 RU_1_6 -17.31785
+    V_1_6 MUT_1_6 1
+    V_1_6 MUT_1_7 1
+    V_1_6 MUT_1_8 1
+    V_1_6 MUT_1_9 1
+    W_1_6 SU_1_6 -1
+    W_1_6 RD_1_6 -50
+    W_1_6 MDT_1_6 1
+    W_1_6 MDT_1_7 1
+    W_1_6 MDT_1_8 1
+    P_1_6 OBJ 71.759047
+    P_1_6 DEM_6 1
+    P_1_6 PMAX_1_6 1
+    P_1_6 PMIN_1_6 1
+    P_1_6 RU_1_6 1
+    P_1_6 RD_1_6 -1
+    P_1_6 RU_1_7 -1
+    P_1_6 RD_1_7 1
+    MARKER 'MARKER' 'INTORG'
+    U_2_6 OBJ 156.18311
+    U_2_6 RES_6 80
+    U_2_6 PMAX_2_6 -80
+    U_2_6 PMIN_2_6 -30.187682
+    U_2_6 SU_2_6 -1
+    U_2_6 SU_2_7 1
+    U_2_6 RU_2_7 -44.785476
+    U_2_6 RD_2_6 -44.785476
+    U_2_6 MUT_2_6 -1
+    U_2_6 MDT_2_6 1
+    MARKER 'MARKER' 'INTEND'
+    V_2_6 OBJ 1707.1461
+    V_2_6 SU_2_6 1
+    V_2_6 RU_2_6 -30.187682
+    V_2_6 MUT_2_6 1
+    W_2_6 SU_2_6 -1
+    W_2_6 RD_2_6 -80
+    W_2_6 MDT_2_6 1
+    W_2_6 MDT_2_7 1
+    W_2_6 MDT_2_8 1
+    W_2_6 MDT_2_9 1
+    P_2_6 OBJ 25.480289
+    P_2_6 DEM_6 1
+    P_2_6 PMAX_2_6 1
+    P_2_6 PMIN_2_6 1
+    P_2_6 RU_2_6 1
+    P_2_6 RD_2_6 -1
+    P_2_6 RU_2_7 -1
+    P_2_6 RD_2_7 1
+    MARKER 'MARKER' 'INTORG'
+    U_3_6 OBJ 493.66545
+    U_3_6 RES_6 150
+    U_3_6 PMAX_3_6 -150
+    U_3_6 PMIN_3_6 -62.663367
+    U_3_6 SU_3_6 -1
+    U_3_6 SU_3_7 1
+    U_3_6 RU_3_7 -78.171575
+    U_3_6 RD_3_6 -78.171575
+    U_3_6 MUT_3_6 -1
+    U_3_6 MDT_3_6 1
+    MARKER 'MARKER' 'INTEND'
+    V_3_6 OBJ 11452.503
+    V_3_6 SU_3_6 1
+    V_3_6 RU_3_6 -62.663367
+    V_3_6 MUT_3_6 1
+    V_3_6 MUT_3_7 1
+    V_3_6 MUT_3_8 1
+    W_3_6 SU_3_6 -1
+    W_3_6 RD_3_6 -150
+    W_3_6 MDT_3_6 1
+    W_3_6 MDT_3_7 1
+    P_3_6 OBJ 38.743324
+    P_3_6 DEM_6 1
+    P_3_6 PMAX_3_6 1
+    P_3_6 PMIN_3_6 1
+    P_3_6 RU_3_6 1
+    P_3_6 RD_3_6 -1
+    P_3_6 RU_3_7 -1
+    P_3_6 RD_3_7 1
+    MARKER 'MARKER' 'INTORG'
+    U_4_6 OBJ 425.78765
+    U_4_6 RES_6 400
+    U_4_6 PMAX_4_6 -400
+    U_4_6 PMIN_4_6 -135.15242
+    U_4_6 SU_4_6 -1
+    U_4_6 SU_4_7 1
+    U_4_6 RU_4_7 -209.03269
+    U_4_6 RD_4_6 -209.03269
+    U_4_6 MUT_4_6 -1
+    U_4_6 MDT_4_6 1
+    MARKER 'MARKER' 'INTEND'
+    V_4_6 OBJ 28101.871
+    V_4_6 SU_4_6 1
+    V_4_6 RU_4_6 -135.15242
+    V_4_6 MUT_4_6 1
+    W_4_6 SU_4_6 -1
+    W_4_6 RD_4_6 -400
+    W_4_6 MDT_4_6 1
+    W_4_6 MDT_4_7 1
+    P_4_6 OBJ 28.040173
+    P_4_6 DEM_6 1
+    P_4_6 PMAX_4_6 1
+    P_4_6 PMIN_4_6 1
+    P_4_6 RU_4_6 1
+    P_4_6 RD_4_6 -1
+    P_4_6 RU_4_7 -1
+    P_4_6 RD_4_7 1
+    MARKER 'MARKER' 'INTORG'
+    U_5_6 OBJ 599.42567
+    U_5_6 RES_6 300
+    U_5_6 PMAX_5_6 -300
+    U_5_6 PMIN_5_6 -137.39519
+    U_5_6 SU_5_6 -1
+    U_5_6 SU_5_7 1
+    U_5_6 RU_5_7 -175.34301
+    U_5_6 RD_5_6 -175.34301
+    U_5_6 MUT_5_6 -1
+    U_5_6 MDT_5_6 1
+    MARKER 'MARKER' 'INTEND'
+    V_5_6 OBJ 18986.719
+    V_5_6 SU_5_6 1
+    V_5_6 RU_5_6 -137.39519
+    V_5_6 MUT_5_6 1
+    V_5_6 MUT_5_7 1
+    V_5_6 MUT_5_8 1
+    V_5_6 MUT_5_9 1
+    W_5_6 SU_5_6 -1
+    W_5_6 RD_5_6 -300
+    W_5_6 MDT_5_6 1
+    W_5_6 MDT_5_7 1
+    P_5_6 OBJ 20.440048
+    P_5_6 DEM_6 1
+    P_5_6 PMAX_5_6 1
+    P_5_6 PMIN_5_6 1
+    P_5_6 RU_5_6 1
+    P_5_6 RD_5_6 -1
+    P_5_6 RU_5_7 -1
+    P_5_6 RD_5_7 1
+    MARKER 'MARKER' 'INTORG'
+    U_6_6 OBJ 764.54809
+    U_6_6 RES_6 200
+    U_6_6 PMAX_6_6 -200
+    U_6_6 PMIN_6_6 -98.407084
+    U_6_6 SU_6_6 -1
+    U_6_6 SU_6_7 1
+    U_6_6 RU_6_7 -128.26304
+    U_6_6 RD_6_6 -128.26304
+    U_6_6 MUT_6_6 -1
+    U_6_6 MDT_6_6 1
+    MARKER 'MARKER' 'INTEND'
+    V_6_6 OBJ 8720.2435
+    V_6_6 SU_6_6 1
+    V_6_6 RU_6_6 -98.407084
+    V_6_6 MUT_6_6 1
+    V_6_6 MUT_6_7 1
+    V_6_6 MUT_6_8 1
+    V_6_6 MUT_6_9 1
+    W_6_6 SU_6_6 -1
+    W_6_6 RD_6_6 -200
+    W_6_6 MDT_6_6 1
+    W_6_6 MDT_6_7 1
+    P_6_6 OBJ 37.471293
+    P_6_6 DEM_6 1
+    P_6_6 PMAX_6_6 1
+    P_6_6 PMIN_6_6 1
+    P_6_6 RU_6_6 1
+    P_6_6 RD_6_6 -1
+    P_6_6 RU_6_7 -1
+    P_6_6 RD_6_7 1
+    MARKER 'MARKER' 'INTORG'
+    U_7_6 OBJ 396.95944
+    U_7_6 RES_6 150
+    U_7_6 PMAX_7_6 -150
+    U_7_6 PMIN_7_6 -48.64413
+    U_7_6 SU_7_6 -1
+    U_7_6 SU_7_7 1
+    U_7_6 RU_7_7 -85.46915
+    U_7_6 RD_7_6 -85.46915
+    U_7_6 MUT_7_6 -1
+    U_7_6 MDT_7_6 1
+    MARKER 'MARKER' 'INTEND'
+    V_7_6 OBJ 9327.3669
+    V_7_6 SU_7_6 1
+    V_7_6 RU_7_6 -48.64413
+    V_7_6 MUT_7_6 1
+    V_7_6 MUT_7_7 1
+    V_7_6 MUT_7_8 1
+    W_7_6 SU_7_6 -1
+    W_7_6 RD_7_6 -150
+    W_7_6 MDT_7_6 1
+    P_7_6 OBJ 22.785333
+    P_7_6 DEM_6 1
+    P_7_6 PMAX_7_6 1
+    P_7_6 PMIN_7_6 1
+    P_7_6 RU_7_6 1
+    P_7_6 RD_7_6 -1
+    P_7_6 RU_7_7 -1
+    P_7_6 RD_7_7 1
+    SHED_6 OBJ 1000
+    SHED_6 DEM_6 1
+    SHED_6 RES_6 1.1
+    MARKER 'MARKER' 'INTORG'
+    U_0_7 OBJ 95.145637
+    U_0_7 RES_7 80
+    U_0_7 PMAX_0_7 -80
+    U_0_7 PMIN_0_7 -29.660893
+    U_0_7 SU_0_7 -1
+    U_0_7 SU_0_8 1
+    U_0_7 RU_0_8 -48.350798
+    U_0_7 RD_0_7 -48.350798
+    U_0_7 MUT_0_7 -1
+    U_0_7 MDT_0_7 1
+    MARKER 'MARKER' 'INTEND'
+    V_0_7 OBJ 2166.0098
+    V_0_7 SU_0_7 1
+    V_0_7 RU_0_7 -29.660893
+    V_0_7 MUT_0_7 1
+    V_0_7 MUT_0_8 1
+    V_0_7 MUT_0_9 1
+    V_0_7 MUT_0_10 1
+    W_0_7 SU_0_7 -1
+    W_0_7 RD_0_7 -80
+    W_0_7 MDT_0_7 1
+    W_0_7 MDT_0_8 1
+    W_0_7 MDT_0_9 1
+    W_0_7 MDT_0_10 1
+    P_0_7 OBJ 66.432506
+    P_0_7 DEM_7 1
+    P_0_7 PMAX_0_7 1
+    P_0_7 PMIN_0_7 1
+    P_0_7 RU_0_7 1
+    P_0_7 RD_0_7 -1
+    P_0_7 RU_0_8 -1
+    P_0_7 RD_0_8 1
+    MARKER 'MARKER' 'INTORG'
+    U_1_7 OBJ 108.47132
+    U_1_7 RES_7 50
+    U_1_7 PMAX_1_7 -50
+    U_1_7 PMIN_1_7 -17.31785
+    U_1_7 SU_1_7 -1
+    U_1_7 SU_1_8 1
+    U_1_7 RU_1_8 -30.343153
+    U_1_7 RD_1_7 -30.343153
+    U_1_7 MUT_1_7 -1
+    U_1_7 MDT_1_7 1
+    MARKER 'MARKER' 'INTEND'
+    V_1_7 OBJ 2822.314
+    V_1_7 SU_1_7 1
+    V_1_7 RU_1_7 -17.31785
+    V_1_7 MUT_1_7 1
+    V_1_7 MUT_1_8 1
+    V_1_7 MUT_1_9 1
+    V_1_7 MUT_1_10 1
+    W_1_7 SU_1_7 -1
+    W_1_7 RD_1_7 -50
+    W_1_7 MDT_1_7 1
+    W_1_7 MDT_1_8 1
+    W_1_7 MDT_1_9 1
+    P_1_7 OBJ 71.759047
+    P_1_7 DEM_7 1
+    P_1_7 PMAX_1_7 1
+    P_1_7 PMIN_1_7 1
+    P_1_7 RU_1_7 1
+    P_1_7 RD_1_7 -1
+    P_1_7 RU_1_8 -1
+    P_1_7 RD_1_8 1
+    MARKER 'MARKER' 'INTORG'
+    U_2_7 OBJ 156.18311
+    U_2_7 RES_7 80
+    U_2_7 PMAX_2_7 -80
+    U_2_7 PMIN_2_7 -30.187682
+    U_2_7 SU_2_7 -1
+    U_2_7 SU_2_8 1
+    U_2_7 RU_2_8 -44.785476
+    U_2_7 RD_2_7 -44.785476
+    U_2_7 MUT_2_7 -1
+    U_2_7 MDT_2_7 1
+    MARKER 'MARKER' 'INTEND'
+    V_2_7 OBJ 1707.1461
+    V_2_7 SU_2_7 1
+    V_2_7 RU_2_7 -30.187682
+    V_2_7 MUT_2_7 1
+    W_2_7 SU_2_7 -1
+    W_2_7 RD_2_7 -80
+    W_2_7 MDT_2_7 1
+    W_2_7 MDT_2_8 1
+    W_2_7 MDT_2_9 1
+    W_2_7 MDT_2_10 1
+    P_2_7 OBJ 25.480289
+    P_2_7 DEM_7 1
+    P_2_7 PMAX_2_7 1
+    P_2_7 PMIN_2_7 1
+    P_2_7 RU_2_7 1
+    P_2_7 RD_2_7 -1
+    P_2_7 RU_2_8 -1
+    P_2_7 RD_2_8 1
+    MARKER 'MARKER' 'INTORG'
+    U_3_7 OBJ 493.66545
+    U_3_7 RES_7 150
+    U_3_7 PMAX_3_7 -150
+    U_3_7 PMIN_3_7 -62.663367
+    U_3_7 SU_3_7 -1
+    U_3_7 SU_3_8 1
+    U_3_7 RU_3_8 -78.171575
+    U_3_7 RD_3_7 -78.171575
+    U_3_7 MUT_3_7 -1
+    U_3_7 MDT_3_7 1
+    MARKER 'MARKER' 'INTEND'
+    V_3_7 OBJ 11452.503
+    V_3_7 SU_3_7 1
+    V_3_7 RU_3_7 -62.663367
+    V_3_7 MUT_3_7 1
+    V_3_7 MUT_3_8 1
+    V_3_7 MUT_3_9 1
+    W_3_7 SU_3_7 -1
+    W_3_7 RD_3_7 -150
+    W_3_7 MDT_3_7 1
+    W_3_7 MDT_3_8 1
+    P_3_7 OBJ 38.743324
+    P_3_7 DEM_7 1
+    P_3_7 PMAX_3_7 1
+    P_3_7 PMIN_3_7 1
+    P_3_7 RU_3_7 1
+    P_3_7 RD_3_7 -1
+    P_3_7 RU_3_8 -1
+    P_3_7 RD_3_8 1
+    MARKER 'MARKER' 'INTORG'
+    U_4_7 OBJ 425.78765
+    U_4_7 RES_7 400
+    U_4_7 PMAX_4_7 -400
+    U_4_7 PMIN_4_7 -135.15242
+    U_4_7 SU_4_7 -1
+    U_4_7 SU_4_8 1
+    U_4_7 RU_4_8 -209.03269
+    U_4_7 RD_4_7 -209.03269
+    U_4_7 MUT_4_7 -1
+    U_4_7 MDT_4_7 1
+    MARKER 'MARKER' 'INTEND'
+    V_4_7 OBJ 28101.871
+    V_4_7 SU_4_7 1
+    V_4_7 RU_4_7 -135.15242
+    V_4_7 MUT_4_7 1
+    W_4_7 SU_4_7 -1
+    W_4_7 RD_4_7 -400
+    W_4_7 MDT_4_7 1
+    W_4_7 MDT_4_8 1
+    P_4_7 OBJ 28.040173
+    P_4_7 DEM_7 1
+    P_4_7 PMAX_4_7 1
+    P_4_7 PMIN_4_7 1
+    P_4_7 RU_4_7 1
+    P_4_7 RD_4_7 -1
+    P_4_7 RU_4_8 -1
+    P_4_7 RD_4_8 1
+    MARKER 'MARKER' 'INTORG'
+    U_5_7 OBJ 599.42567
+    U_5_7 RES_7 300
+    U_5_7 PMAX_5_7 -300
+    U_5_7 PMIN_5_7 -137.39519
+    U_5_7 SU_5_7 -1
+    U_5_7 SU_5_8 1
+    U_5_7 RU_5_8 -175.34301
+    U_5_7 RD_5_7 -175.34301
+    U_5_7 MUT_5_7 -1
+    U_5_7 MDT_5_7 1
+    MARKER 'MARKER' 'INTEND'
+    V_5_7 OBJ 18986.719
+    V_5_7 SU_5_7 1
+    V_5_7 RU_5_7 -137.39519
+    V_5_7 MUT_5_7 1
+    V_5_7 MUT_5_8 1
+    V_5_7 MUT_5_9 1
+    V_5_7 MUT_5_10 1
+    W_5_7 SU_5_7 -1
+    W_5_7 RD_5_7 -300
+    W_5_7 MDT_5_7 1
+    W_5_7 MDT_5_8 1
+    P_5_7 OBJ 20.440048
+    P_5_7 DEM_7 1
+    P_5_7 PMAX_5_7 1
+    P_5_7 PMIN_5_7 1
+    P_5_7 RU_5_7 1
+    P_5_7 RD_5_7 -1
+    P_5_7 RU_5_8 -1
+    P_5_7 RD_5_8 1
+    MARKER 'MARKER' 'INTORG'
+    U_6_7 OBJ 764.54809
+    U_6_7 RES_7 200
+    U_6_7 PMAX_6_7 -200
+    U_6_7 PMIN_6_7 -98.407084
+    U_6_7 SU_6_7 -1
+    U_6_7 SU_6_8 1
+    U_6_7 RU_6_8 -128.26304
+    U_6_7 RD_6_7 -128.26304
+    U_6_7 MUT_6_7 -1
+    U_6_7 MDT_6_7 1
+    MARKER 'MARKER' 'INTEND'
+    V_6_7 OBJ 8720.2435
+    V_6_7 SU_6_7 1
+    V_6_7 RU_6_7 -98.407084
+    V_6_7 MUT_6_7 1
+    V_6_7 MUT_6_8 1
+    V_6_7 MUT_6_9 1
+    V_6_7 MUT_6_10 1
+    W_6_7 SU_6_7 -1
+    W_6_7 RD_6_7 -200
+    W_6_7 MDT_6_7 1
+    W_6_7 MDT_6_8 1
+    P_6_7 OBJ 37.471293
+    P_6_7 DEM_7 1
+    P_6_7 PMAX_6_7 1
+    P_6_7 PMIN_6_7 1
+    P_6_7 RU_6_7 1
+    P_6_7 RD_6_7 -1
+    P_6_7 RU_6_8 -1
+    P_6_7 RD_6_8 1
+    MARKER 'MARKER' 'INTORG'
+    U_7_7 OBJ 396.95944
+    U_7_7 RES_7 150
+    U_7_7 PMAX_7_7 -150
+    U_7_7 PMIN_7_7 -48.64413
+    U_7_7 SU_7_7 -1
+    U_7_7 SU_7_8 1
+    U_7_7 RU_7_8 -85.46915
+    U_7_7 RD_7_7 -85.46915
+    U_7_7 MUT_7_7 -1
+    U_7_7 MDT_7_7 1
+    MARKER 'MARKER' 'INTEND'
+    V_7_7 OBJ 9327.3669
+    V_7_7 SU_7_7 1
+    V_7_7 RU_7_7 -48.64413
+    V_7_7 MUT_7_7 1
+    V_7_7 MUT_7_8 1
+    V_7_7 MUT_7_9 1
+    W_7_7 SU_7_7 -1
+    W_7_7 RD_7_7 -150
+    W_7_7 MDT_7_7 1
+    P_7_7 OBJ 22.785333
+    P_7_7 DEM_7 1
+    P_7_7 PMAX_7_7 1
+    P_7_7 PMIN_7_7 1
+    P_7_7 RU_7_7 1
+    P_7_7 RD_7_7 -1
+    P_7_7 RU_7_8 -1
+    P_7_7 RD_7_8 1
+    SHED_7 OBJ 1000
+    SHED_7 DEM_7 1
+    SHED_7 RES_7 1.1
+    MARKER 'MARKER' 'INTORG'
+    U_0_8 OBJ 95.145637
+    U_0_8 RES_8 80
+    U_0_8 PMAX_0_8 -80
+    U_0_8 PMIN_0_8 -29.660893
+    U_0_8 SU_0_8 -1
+    U_0_8 SU_0_9 1
+    U_0_8 RU_0_9 -48.350798
+    U_0_8 RD_0_8 -48.350798
+    U_0_8 MUT_0_8 -1
+    U_0_8 MDT_0_8 1
+    MARKER 'MARKER' 'INTEND'
+    V_0_8 OBJ 2166.0098
+    V_0_8 SU_0_8 1
+    V_0_8 RU_0_8 -29.660893
+    V_0_8 MUT_0_8 1
+    V_0_8 MUT_0_9 1
+    V_0_8 MUT_0_10 1
+    V_0_8 MUT_0_11 1
+    W_0_8 SU_0_8 -1
+    W_0_8 RD_0_8 -80
+    W_0_8 MDT_0_8 1
+    W_0_8 MDT_0_9 1
+    W_0_8 MDT_0_10 1
+    W_0_8 MDT_0_11 1
+    P_0_8 OBJ 66.432506
+    P_0_8 DEM_8 1
+    P_0_8 PMAX_0_8 1
+    P_0_8 PMIN_0_8 1
+    P_0_8 RU_0_8 1
+    P_0_8 RD_0_8 -1
+    P_0_8 RU_0_9 -1
+    P_0_8 RD_0_9 1
+    MARKER 'MARKER' 'INTORG'
+    U_1_8 OBJ 108.47132
+    U_1_8 RES_8 50
+    U_1_8 PMAX_1_8 -50
+    U_1_8 PMIN_1_8 -17.31785
+    U_1_8 SU_1_8 -1
+    U_1_8 SU_1_9 1
+    U_1_8 RU_1_9 -30.343153
+    U_1_8 RD_1_8 -30.343153
+    U_1_8 MUT_1_8 -1
+    U_1_8 MDT_1_8 1
+    MARKER 'MARKER' 'INTEND'
+    V_1_8 OBJ 2822.314
+    V_1_8 SU_1_8 1
+    V_1_8 RU_1_8 -17.31785
+    V_1_8 MUT_1_8 1
+    V_1_8 MUT_1_9 1
+    V_1_8 MUT_1_10 1
+    V_1_8 MUT_1_11 1
+    W_1_8 SU_1_8 -1
+    W_1_8 RD_1_8 -50
+    W_1_8 MDT_1_8 1
+    W_1_8 MDT_1_9 1
+    W_1_8 MDT_1_10 1
+    P_1_8 OBJ 71.759047
+    P_1_8 DEM_8 1
+    P_1_8 PMAX_1_8 1
+    P_1_8 PMIN_1_8 1
+    P_1_8 RU_1_8 1
+    P_1_8 RD_1_8 -1
+    P_1_8 RU_1_9 -1
+    P_1_8 RD_1_9 1
+    MARKER 'MARKER' 'INTORG'
+    U_2_8 OBJ 156.18311
+    U_2_8 RES_8 80
+    U_2_8 PMAX_2_8 -80
+    U_2_8 PMIN_2_8 -30.187682
+    U_2_8 SU_2_8 -1
+    U_2_8 SU_2_9 1
+    U_2_8 RU_2_9 -44.785476
+    U_2_8 RD_2_8 -44.785476
+    U_2_8 MUT_2_8 -1
+    U_2_8 MDT_2_8 1
+    MARKER 'MARKER' 'INTEND'
+    V_2_8 OBJ 1707.1461
+    V_2_8 SU_2_8 1
+    V_2_8 RU_2_8 -30.187682
+    V_2_8 MUT_2_8 1
+    W_2_8 SU_2_8 -1
+    W_2_8 RD_2_8 -80
+    W_2_8 MDT_2_8 1
+    W_2_8 MDT_2_9 1
+    W_2_8 MDT_2_10 1
+    W_2_8 MDT_2_11 1
+    P_2_8 OBJ 25.480289
+    P_2_8 DEM_8 1
+    P_2_8 PMAX_2_8 1
+    P_2_8 PMIN_2_8 1
+    P_2_8 RU_2_8 1
+    P_2_8 RD_2_8 -1
+    P_2_8 RU_2_9 -1
+    P_2_8 RD_2_9 1
+    MARKER 'MARKER' 'INTORG'
+    U_3_8 OBJ 493.66545
+    U_3_8 RES_8 150
+    U_3_8 PMAX_3_8 -150
+    U_3_8 PMIN_3_8 -62.663367
+    U_3_8 SU_3_8 -1
+    U_3_8 SU_3_9 1
+    U_3_8 RU_3_9 -78.171575
+    U_3_8 RD_3_8 -78.171575
+    U_3_8 MUT_3_8 -1
+    U_3_8 MDT_3_8 1
+    MARKER 'MARKER' 'INTEND'
+    V_3_8 OBJ 11452.503
+    V_3_8 SU_3_8 1
+    V_3_8 RU_3_8 -62.663367
+    V_3_8 MUT_3_8 1
+    V_3_8 MUT_3_9 1
+    V_3_8 MUT_3_10 1
+    W_3_8 SU_3_8 -1
+    W_3_8 RD_3_8 -150
+    W_3_8 MDT_3_8 1
+    W_3_8 MDT_3_9 1
+    P_3_8 OBJ 38.743324
+    P_3_8 DEM_8 1
+    P_3_8 PMAX_3_8 1
+    P_3_8 PMIN_3_8 1
+    P_3_8 RU_3_8 1
+    P_3_8 RD_3_8 -1
+    P_3_8 RU_3_9 -1
+    P_3_8 RD_3_9 1
+    MARKER 'MARKER' 'INTORG'
+    U_4_8 OBJ 425.78765
+    U_4_8 RES_8 400
+    U_4_8 PMAX_4_8 -400
+    U_4_8 PMIN_4_8 -135.15242
+    U_4_8 SU_4_8 -1
+    U_4_8 SU_4_9 1
+    U_4_8 RU_4_9 -209.03269
+    U_4_8 RD_4_8 -209.03269
+    U_4_8 MUT_4_8 -1
+    U_4_8 MDT_4_8 1
+    MARKER 'MARKER' 'INTEND'
+    V_4_8 OBJ 28101.871
+    V_4_8 SU_4_8 1
+    V_4_8 RU_4_8 -135.15242
+    V_4_8 MUT_4_8 1
+    W_4_8 SU_4_8 -1
+    W_4_8 RD_4_8 -400
+    W_4_8 MDT_4_8 1
+    W_4_8 MDT_4_9 1
+    P_4_8 OBJ 28.040173
+    P_4_8 DEM_8 1
+    P_4_8 PMAX_4_8 1
+    P_4_8 PMIN_4_8 1
+    P_4_8 RU_4_8 1
+    P_4_8 RD_4_8 -1
+    P_4_8 RU_4_9 -1
+    P_4_8 RD_4_9 1
+    MARKER 'MARKER' 'INTORG'
+    U_5_8 OBJ 599.42567
+    U_5_8 RES_8 300
+    U_5_8 PMAX_5_8 -300
+    U_5_8 PMIN_5_8 -137.39519
+    U_5_8 SU_5_8 -1
+    U_5_8 SU_5_9 1
+    U_5_8 RU_5_9 -175.34301
+    U_5_8 RD_5_8 -175.34301
+    U_5_8 MUT_5_8 -1
+    U_5_8 MDT_5_8 1
+    MARKER 'MARKER' 'INTEND'
+    V_5_8 OBJ 18986.719
+    V_5_8 SU_5_8 1
+    V_5_8 RU_5_8 -137.39519
+    V_5_8 MUT_5_8 1
+    V_5_8 MUT_5_9 1
+    V_5_8 MUT_5_10 1
+    V_5_8 MUT_5_11 1
+    W_5_8 SU_5_8 -1
+    W_5_8 RD_5_8 -300
+    W_5_8 MDT_5_8 1
+    W_5_8 MDT_5_9 1
+    P_5_8 OBJ 20.440048
+    P_5_8 DEM_8 1
+    P_5_8 PMAX_5_8 1
+    P_5_8 PMIN_5_8 1
+    P_5_8 RU_5_8 1
+    P_5_8 RD_5_8 -1
+    P_5_8 RU_5_9 -1
+    P_5_8 RD_5_9 1
+    MARKER 'MARKER' 'INTORG'
+    U_6_8 OBJ 764.54809
+    U_6_8 RES_8 200
+    U_6_8 PMAX_6_8 -200
+    U_6_8 PMIN_6_8 -98.407084
+    U_6_8 SU_6_8 -1
+    U_6_8 SU_6_9 1
+    U_6_8 RU_6_9 -128.26304
+    U_6_8 RD_6_8 -128.26304
+    U_6_8 MUT_6_8 -1
+    U_6_8 MDT_6_8 1
+    MARKER 'MARKER' 'INTEND'
+    V_6_8 OBJ 8720.2435
+    V_6_8 SU_6_8 1
+    V_6_8 RU_6_8 -98.407084
+    V_6_8 MUT_6_8 1
+    V_6_8 MUT_6_9 1
+    V_6_8 MUT_6_10 1
+    V_6_8 MUT_6_11 1
+    W_6_8 SU_6_8 -1
+    W_6_8 RD_6_8 -200
+    W_6_8 MDT_6_8 1
+    W_6_8 MDT_6_9 1
+    P_6_8 OBJ 37.471293
+    P_6_8 DEM_8 1
+    P_6_8 PMAX_6_8 1
+    P_6_8 PMIN_6_8 1
+    P_6_8 RU_6_8 1
+    P_6_8 RD_6_8 -1
+    P_6_8 RU_6_9 -1
+    P_6_8 RD_6_9 1
+    MARKER 'MARKER' 'INTORG'
+    U_7_8 OBJ 396.95944
+    U_7_8 RES_8 150
+    U_7_8 PMAX_7_8 -150
+    U_7_8 PMIN_7_8 -48.64413
+    U_7_8 SU_7_8 -1
+    U_7_8 SU_7_9 1
+    U_7_8 RU_7_9 -85.46915
+    U_7_8 RD_7_8 -85.46915
+    U_7_8 MUT_7_8 -1
+    U_7_8 MDT_7_8 1
+    MARKER 'MARKER' 'INTEND'
+    V_7_8 OBJ 9327.3669
+    V_7_8 SU_7_8 1
+    V_7_8 RU_7_8 -48.64413
+    V_7_8 MUT_7_8 1
+    V_7_8 MUT_7_9 1
+    V_7_8 MUT_7_10 1
+    W_7_8 SU_7_8 -1
+    W_7_8 RD_7_8 -150
+    W_7_8 MDT_7_8 1
+    P_7_8 OBJ 22.785333
+    P_7_8 DEM_8 1
+    P_7_8 PMAX_7_8 1
+    P_7_8 PMIN_7_8 1
+    P_7_8 RU_7_8 1
+    P_7_8 RD_7_8 -1
+    P_7_8 RU_7_9 -1
+    P_7_8 RD_7_9 1
+    SHED_8 OBJ 1000
+    SHED_8 DEM_8 1
+    SHED_8 RES_8 1.1
+    MARKER 'MARKER' 'INTORG'
+    U_0_9 OBJ 95.145637
+    U_0_9 RES_9 80
+    U_0_9 PMAX_0_9 -80
+    U_0_9 PMIN_0_9 -29.660893
+    U_0_9 SU_0_9 -1
+    U_0_9 SU_0_10 1
+    U_0_9 RU_0_10 -48.350798
+    U_0_9 RD_0_9 -48.350798
+    U_0_9 MUT_0_9 -1
+    U_0_9 MDT_0_9 1
+    MARKER 'MARKER' 'INTEND'
+    V_0_9 OBJ 2166.0098
+    V_0_9 SU_0_9 1
+    V_0_9 RU_0_9 -29.660893
+    V_0_9 MUT_0_9 1
+    V_0_9 MUT_0_10 1
+    V_0_9 MUT_0_11 1
+    W_0_9 SU_0_9 -1
+    W_0_9 RD_0_9 -80
+    W_0_9 MDT_0_9 1
+    W_0_9 MDT_0_10 1
+    W_0_9 MDT_0_11 1
+    P_0_9 OBJ 66.432506
+    P_0_9 DEM_9 1
+    P_0_9 PMAX_0_9 1
+    P_0_9 PMIN_0_9 1
+    P_0_9 RU_0_9 1
+    P_0_9 RD_0_9 -1
+    P_0_9 RU_0_10 -1
+    P_0_9 RD_0_10 1
+    MARKER 'MARKER' 'INTORG'
+    U_1_9 OBJ 108.47132
+    U_1_9 RES_9 50
+    U_1_9 PMAX_1_9 -50
+    U_1_9 PMIN_1_9 -17.31785
+    U_1_9 SU_1_9 -1
+    U_1_9 SU_1_10 1
+    U_1_9 RU_1_10 -30.343153
+    U_1_9 RD_1_9 -30.343153
+    U_1_9 MUT_1_9 -1
+    U_1_9 MDT_1_9 1
+    MARKER 'MARKER' 'INTEND'
+    V_1_9 OBJ 2822.314
+    V_1_9 SU_1_9 1
+    V_1_9 RU_1_9 -17.31785
+    V_1_9 MUT_1_9 1
+    V_1_9 MUT_1_10 1
+    V_1_9 MUT_1_11 1
+    W_1_9 SU_1_9 -1
+    W_1_9 RD_1_9 -50
+    W_1_9 MDT_1_9 1
+    W_1_9 MDT_1_10 1
+    W_1_9 MDT_1_11 1
+    P_1_9 OBJ 71.759047
+    P_1_9 DEM_9 1
+    P_1_9 PMAX_1_9 1
+    P_1_9 PMIN_1_9 1
+    P_1_9 RU_1_9 1
+    P_1_9 RD_1_9 -1
+    P_1_9 RU_1_10 -1
+    P_1_9 RD_1_10 1
+    MARKER 'MARKER' 'INTORG'
+    U_2_9 OBJ 156.18311
+    U_2_9 RES_9 80
+    U_2_9 PMAX_2_9 -80
+    U_2_9 PMIN_2_9 -30.187682
+    U_2_9 SU_2_9 -1
+    U_2_9 SU_2_10 1
+    U_2_9 RU_2_10 -44.785476
+    U_2_9 RD_2_9 -44.785476
+    U_2_9 MUT_2_9 -1
+    U_2_9 MDT_2_9 1
+    MARKER 'MARKER' 'INTEND'
+    V_2_9 OBJ 1707.1461
+    V_2_9 SU_2_9 1
+    V_2_9 RU_2_9 -30.187682
+    V_2_9 MUT_2_9 1
+    W_2_9 SU_2_9 -1
+    W_2_9 RD_2_9 -80
+    W_2_9 MDT_2_9 1
+    W_2_9 MDT_2_10 1
+    W_2_9 MDT_2_11 1
+    P_2_9 OBJ 25.480289
+    P_2_9 DEM_9 1
+    P_2_9 PMAX_2_9 1
+    P_2_9 PMIN_2_9 1
+    P_2_9 RU_2_9 1
+    P_2_9 RD_2_9 -1
+    P_2_9 RU_2_10 -1
+    P_2_9 RD_2_10 1
+    MARKER 'MARKER' 'INTORG'
+    U_3_9 OBJ 493.66545
+    U_3_9 RES_9 150
+    U_3_9 PMAX_3_9 -150
+    U_3_9 PMIN_3_9 -62.663367
+    U_3_9 SU_3_9 -1
+    U_3_9 SU_3_10 1
+    U_3_9 RU_3_10 -78.171575
+    U_3_9 RD_3_9 -78.171575
+    U_3_9 MUT_3_9 -1
+    U_3_9 MDT_3_9 1
+    MARKER 'MARKER' 'INTEND'
+    V_3_9 OBJ 11452.503
+    V_3_9 SU_3_9 1
+    V_3_9 RU_3_9 -62.663367
+    V_3_9 MUT_3_9 1
+    V_3_9 MUT_3_10 1
+    V_3_9 MUT_3_11 1
+    W_3_9 SU_3_9 -1
+    W_3_9 RD_3_9 -150
+    W_3_9 MDT_3_9 1
+    W_3_9 MDT_3_10 1
+    P_3_9 OBJ 38.743324
+    P_3_9 DEM_9 1
+    P_3_9 PMAX_3_9 1
+    P_3_9 PMIN_3_9 1
+    P_3_9 RU_3_9 1
+    P_3_9 RD_3_9 -1
+    P_3_9 RU_3_10 -1
+    P_3_9 RD_3_10 1
+    MARKER 'MARKER' 'INTORG'
+    U_4_9 OBJ 425.78765
+    U_4_9 RES_9 400
+    U_4_9 PMAX_4_9 -400
+    U_4_9 PMIN_4_9 -135.15242
+    U_4_9 SU_4_9 -1
+    U_4_9 SU_4_10 1
+    U_4_9 RU_4_10 -209.03269
+    U_4_9 RD_4_9 -209.03269
+    U_4_9 MUT_4_9 -1
+    U_4_9 MDT_4_9 1
+    MARKER 'MARKER' 'INTEND'
+    V_4_9 OBJ 28101.871
+    V_4_9 SU_4_9 1
+    V_4_9 RU_4_9 -135.15242
+    V_4_9 MUT_4_9 1
+    W_4_9 SU_4_9 -1
+    W_4_9 RD_4_9 -400
+    W_4_9 MDT_4_9 1
+    W_4_9 MDT_4_10 1
+    P_4_9 OBJ 28.040173
+    P_4_9 DEM_9 1
+    P_4_9 PMAX_4_9 1
+    P_4_9 PMIN_4_9 1
+    P_4_9 RU_4_9 1
+    P_4_9 RD_4_9 -1
+    P_4_9 RU_4_10 -1
+    P_4_9 RD_4_10 1
+    MARKER 'MARKER' 'INTORG'
+    U_5_9 OBJ 599.42567
+    U_5_9 RES_9 300
+    U_5_9 PMAX_5_9 -300
+    U_5_9 PMIN_5_9 -137.39519
+    U_5_9 SU_5_9 -1
+    U_5_9 SU_5_10 1
+    U_5_9 RU_5_10 -175.34301
+    U_5_9 RD_5_9 -175.34301
+    U_5_9 MUT_5_9 -1
+    U_5_9 MDT_5_9 1
+    MARKER 'MARKER' 'INTEND'
+    V_5_9 OBJ 18986.719
+    V_5_9 SU_5_9 1
+    V_5_9 RU_5_9 -137.39519
+    V_5_9 MUT_5_9 1
+    V_5_9 MUT_5_10 1
+    V_5_9 MUT_5_11 1
+    W_5_9 SU_5_9 -1
+    W_5_9 RD_5_9 -300
+    W_5_9 MDT_5_9 1
+    W_5_9 MDT_5_10 1
+    P_5_9 OBJ 20.440048
+    P_5_9 DEM_9 1
+    P_5_9 PMAX_5_9 1
+    P_5_9 PMIN_5_9 1
+    P_5_9 RU_5_9 1
+    P_5_9 RD_5_9 -1
+    P_5_9 RU_5_10 -1
+    P_5_9 RD_5_10 1
+    MARKER 'MARKER' 'INTORG'
+    U_6_9 OBJ 764.54809
+    U_6_9 RES_9 200
+    U_6_9 PMAX_6_9 -200
+    U_6_9 PMIN_6_9 -98.407084
+    U_6_9 SU_6_9 -1
+    U_6_9 SU_6_10 1
+    U_6_9 RU_6_10 -128.26304
+    U_6_9 RD_6_9 -128.26304
+    U_6_9 MUT_6_9 -1
+    U_6_9 MDT_6_9 1
+    MARKER 'MARKER' 'INTEND'
+    V_6_9 OBJ 8720.2435
+    V_6_9 SU_6_9 1
+    V_6_9 RU_6_9 -98.407084
+    V_6_9 MUT_6_9 1
+    V_6_9 MUT_6_10 1
+    V_6_9 MUT_6_11 1
+    W_6_9 SU_6_9 -1
+    W_6_9 RD_6_9 -200
+    W_6_9 MDT_6_9 1
+    W_6_9 MDT_6_10 1
+    P_6_9 OBJ 37.471293
+    P_6_9 DEM_9 1
+    P_6_9 PMAX_6_9 1
+    P_6_9 PMIN_6_9 1
+    P_6_9 RU_6_9 1
+    P_6_9 RD_6_9 -1
+    P_6_9 RU_6_10 -1
+    P_6_9 RD_6_10 1
+    MARKER 'MARKER' 'INTORG'
+    U_7_9 OBJ 396.95944
+    U_7_9 RES_9 150
+    U_7_9 PMAX_7_9 -150
+    U_7_9 PMIN_7_9 -48.64413
+    U_7_9 SU_7_9 -1
+    U_7_9 SU_7_10 1
+    U_7_9 RU_7_10 -85.46915
+    U_7_9 RD_7_9 -85.46915
+    U_7_9 MUT_7_9 -1
+    U_7_9 MDT_7_9 1
+    MARKER 'MARKER' 'INTEND'
+    V_7_9 OBJ 9327.3669
+    V_7_9 SU_7_9 1
+    V_7_9 RU_7_9 -48.64413
+    V_7_9 MUT_7_9 1
+    V_7_9 MUT_7_10 1
+    V_7_9 MUT_7_11 1
+    W_7_9 SU_7_9 -1
+    W_7_9 RD_7_9 -150
+    W_7_9 MDT_7_9 1
+    P_7_9 OBJ 22.785333
+    P_7_9 DEM_9 1
+    P_7_9 PMAX_7_9 1
+    P_7_9 PMIN_7_9 1
+    P_7_9 RU_7_9 1
+    P_7_9 RD_7_9 -1
+    P_7_9 RU_7_10 -1
+    P_7_9 RD_7_10 1
+    SHED_9 OBJ 1000
+    SHED_9 DEM_9 1
+    SHED_9 RES_9 1.1
+    MARKER 'MARKER' 'INTORG'
+    U_0_10 OBJ 95.145637
+    U_0_10 RES_10 80
+    U_0_10 PMAX_0_10 -80
+    U_0_10 PMIN_0_10 -29.660893
+    U_0_10 SU_0_10 -1
+    U_0_10 SU_0_11 1
+    U_0_10 RU_0_11 -48.350798
+    U_0_10 RD_0_10 -48.350798
+    U_0_10 MUT_0_10 -1
+    U_0_10 MDT_0_10 1
+    MARKER 'MARKER' 'INTEND'
+    V_0_10 OBJ 2166.0098
+    V_0_10 SU_0_10 1
+    V_0_10 RU_0_10 -29.660893
+    V_0_10 MUT_0_10 1
+    V_0_10 MUT_0_11 1
+    W_0_10 SU_0_10 -1
+    W_0_10 RD_0_10 -80
+    W_0_10 MDT_0_10 1
+    W_0_10 MDT_0_11 1
+    P_0_10 OBJ 66.432506
+    P_0_10 DEM_10 1
+    P_0_10 PMAX_0_10 1
+    P_0_10 PMIN_0_10 1
+    P_0_10 RU_0_10 1
+    P_0_10 RD_0_10 -1
+    P_0_10 RU_0_11 -1
+    P_0_10 RD_0_11 1
+    MARKER 'MARKER' 'INTORG'
+    U_1_10 OBJ 108.47132
+    U_1_10 RES_10 50
+    U_1_10 PMAX_1_10 -50
+    U_1_10 PMIN_1_10 -17.31785
+    U_1_10 SU_1_10 -1
+    U_1_10 SU_1_11 1
+    U_1_10 RU_1_11 -30.343153
+    U_1_10 RD_1_10 -30.343153
+    U_1_10 MUT_1_10 -1
+    U_1_10 MDT_1_10 1
+    MARKER 'MARKER' 'INTEND'
+    V_1_10 OBJ 2822.314
+    V_1_10 SU_1_10 1
+    V_1_10 RU_1_10 -17.31785
+    V_1_10 MUT_1_10 1
+    V_1_10 MUT_1_11 1
+    W_1_10 SU_1_10 -1
+    W_1_10 RD_1_10 -50
+    W_1_10 MDT_1_10 1
+    W_1_10 MDT_1_11 1
+    P_1_10 OBJ 71.759047
+    P_1_10 DEM_10 1
+    P_1_10 PMAX_1_10 1
+    P_1_10 PMIN_1_10 1
+    P_1_10 RU_1_10 1
+    P_1_10 RD_1_10 -1
+    P_1_10 RU_1_11 -1
+    P_1_10 RD_1_11 1
+    MARKER 'MARKER' 'INTORG'
+    U_2_10 OBJ 156.18311
+    U_2_10 RES_10 80
+    U_2_10 PMAX_2_10 -80
+    U_2_10 PMIN_2_10 -30.187682
+    U_2_10 SU_2_10 -1
+    U_2_10 SU_2_11 1
+    U_2_10 RU_2_11 -44.785476
+    U_2_10 RD_2_10 -44.785476
+    U_2_10 MUT_2_10 -1
+    U_2_10 MDT_2_10 1
+    MARKER 'MARKER' 'INTEND'
+    V_2_10 OBJ 1707.1461
+    V_2_10 SU_2_10 1
+    V_2_10 RU_2_10 -30.187682
+    V_2_10 MUT_2_10 1
+    W_2_10 SU_2_10 -1
+    W_2_10 RD_2_10 -80
+    W_2_10 MDT_2_10 1
+    W_2_10 MDT_2_11 1
+    P_2_10 OBJ 25.480289
+    P_2_10 DEM_10 1
+    P_2_10 PMAX_2_10 1
+    P_2_10 PMIN_2_10 1
+    P_2_10 RU_2_10 1
+    P_2_10 RD_2_10 -1
+    P_2_10 RU_2_11 -1
+    P_2_10 RD_2_11 1
+    MARKER 'MARKER' 'INTORG'
+    U_3_10 OBJ 493.66545
+    U_3_10 RES_10 150
+    U_3_10 PMAX_3_10 -150
+    U_3_10 PMIN_3_10 -62.663367
+    U_3_10 SU_3_10 -1
+    U_3_10 SU_3_11 1
+    U_3_10 RU_3_11 -78.171575
+    U_3_10 RD_3_10 -78.171575
+    U_3_10 MUT_3_10 -1
+    U_3_10 MDT_3_10 1
+    MARKER 'MARKER' 'INTEND'
+    V_3_10 OBJ 11452.503
+    V_3_10 SU_3_10 1
+    V_3_10 RU_3_10 -62.663367
+    V_3_10 MUT_3_10 1
+    V_3_10 MUT_3_11 1
+    W_3_10 SU_3_10 -1
+    W_3_10 RD_3_10 -150
+    W_3_10 MDT_3_10 1
+    W_3_10 MDT_3_11 1
+    P_3_10 OBJ 38.743324
+    P_3_10 DEM_10 1
+    P_3_10 PMAX_3_10 1
+    P_3_10 PMIN_3_10 1
+    P_3_10 RU_3_10 1
+    P_3_10 RD_3_10 -1
+    P_3_10 RU_3_11 -1
+    P_3_10 RD_3_11 1
+    MARKER 'MARKER' 'INTORG'
+    U_4_10 OBJ 425.78765
+    U_4_10 RES_10 400
+    U_4_10 PMAX_4_10 -400
+    U_4_10 PMIN_4_10 -135.15242
+    U_4_10 SU_4_10 -1
+    U_4_10 SU_4_11 1
+    U_4_10 RU_4_11 -209.03269
+    U_4_10 RD_4_10 -209.03269
+    U_4_10 MUT_4_10 -1
+    U_4_10 MDT_4_10 1
+    MARKER 'MARKER' 'INTEND'
+    V_4_10 OBJ 28101.871
+    V_4_10 SU_4_10 1
+    V_4_10 RU_4_10 -135.15242
+    V_4_10 MUT_4_10 1
+    W_4_10 SU_4_10 -1
+    W_4_10 RD_4_10 -400
+    W_4_10 MDT_4_10 1
+    W_4_10 MDT_4_11 1
+    P_4_10 OBJ 28.040173
+    P_4_10 DEM_10 1
+    P_4_10 PMAX_4_10 1
+    P_4_10 PMIN_4_10 1
+    P_4_10 RU_4_10 1
+    P_4_10 RD_4_10 -1
+    P_4_10 RU_4_11 -1
+    P_4_10 RD_4_11 1
+    MARKER 'MARKER' 'INTORG'
+    U_5_10 OBJ 599.42567
+    U_5_10 RES_10 300
+    U_5_10 PMAX_5_10 -300
+    U_5_10 PMIN_5_10 -137.39519
+    U_5_10 SU_5_10 -1
+    U_5_10 SU_5_11 1
+    U_5_10 RU_5_11 -175.34301
+    U_5_10 RD_5_10 -175.34301
+    U_5_10 MUT_5_10 -1
+    U_5_10 MDT_5_10 1
+    MARKER 'MARKER' 'INTEND'
+    V_5_10 OBJ 18986.719
+    V_5_10 SU_5_10 1
+    V_5_10 RU_5_10 -137.39519
+    V_5_10 MUT_5_10 1
+    V_5_10 MUT_5_11 1
+    W_5_10 SU_5_10 -1
+    W_5_10 RD_5_10 -300
+    W_5_10 MDT_5_10 1
+    W_5_10 MDT_5_11 1
+    P_5_10 OBJ 20.440048
+    P_5_10 DEM_10 1
+    P_5_10 PMAX_5_10 1
+    P_5_10 PMIN_5_10 1
+    P_5_10 RU_5_10 1
+    P_5_10 RD_5_10 -1
+    P_5_10 RU_5_11 -1
+    P_5_10 RD_5_11 1
+    MARKER 'MARKER' 'INTORG'
+    U_6_10 OBJ 764.54809
+    U_6_10 RES_10 200
+    U_6_10 PMAX_6_10 -200
+    U_6_10 PMIN_6_10 -98.407084
+    U_6_10 SU_6_10 -1
+    U_6_10 SU_6_11 1
+    U_6_10 RU_6_11 -128.26304
+    U_6_10 RD_6_10 -128.26304
+    U_6_10 MUT_6_10 -1
+    U_6_10 MDT_6_10 1
+    MARKER 'MARKER' 'INTEND'
+    V_6_10 OBJ 8720.2435
+    V_6_10 SU_6_10 1
+    V_6_10 RU_6_10 -98.407084
+    V_6_10 MUT_6_10 1
+    V_6_10 MUT_6_11 1
+    W_6_10 SU_6_10 -1
+    W_6_10 RD_6_10 -200
+    W_6_10 MDT_6_10 1
+    W_6_10 MDT_6_11 1
+    P_6_10 OBJ 37.471293
+    P_6_10 DEM_10 1
+    P_6_10 PMAX_6_10 1
+    P_6_10 PMIN_6_10 1
+    P_6_10 RU_6_10 1
+    P_6_10 RD_6_10 -1
+    P_6_10 RU_6_11 -1
+    P_6_10 RD_6_11 1
+    MARKER 'MARKER' 'INTORG'
+    U_7_10 OBJ 396.95944
+    U_7_10 RES_10 150
+    U_7_10 PMAX_7_10 -150
+    U_7_10 PMIN_7_10 -48.64413
+    U_7_10 SU_7_10 -1
+    U_7_10 SU_7_11 1
+    U_7_10 RU_7_11 -85.46915
+    U_7_10 RD_7_10 -85.46915
+    U_7_10 MUT_7_10 -1
+    U_7_10 MDT_7_10 1
+    MARKER 'MARKER' 'INTEND'
+    V_7_10 OBJ 9327.3669
+    V_7_10 SU_7_10 1
+    V_7_10 RU_7_10 -48.64413
+    V_7_10 MUT_7_10 1
+    V_7_10 MUT_7_11 1
+    W_7_10 SU_7_10 -1
+    W_7_10 RD_7_10 -150
+    W_7_10 MDT_7_10 1
+    P_7_10 OBJ 22.785333
+    P_7_10 DEM_10 1
+    P_7_10 PMAX_7_10 1
+    P_7_10 PMIN_7_10 1
+    P_7_10 RU_7_10 1
+    P_7_10 RD_7_10 -1
+    P_7_10 RU_7_11 -1
+    P_7_10 RD_7_11 1
+    SHED_10 OBJ 1000
+    SHED_10 DEM_10 1
+    SHED_10 RES_10 1.1
+    MARKER 'MARKER' 'INTORG'
+    U_0_11 OBJ 95.145637
+    U_0_11 RES_11 80
+    U_0_11 PMAX_0_11 -80
+    U_0_11 PMIN_0_11 -29.660893
+    U_0_11 SU_0_11 -1
+    U_0_11 RD_0_11 -48.350798
+    U_0_11 MUT_0_11 -1
+    U_0_11 MDT_0_11 1
+    MARKER 'MARKER' 'INTEND'
+    V_0_11 OBJ 2166.0098
+    V_0_11 SU_0_11 1
+    V_0_11 RU_0_11 -29.660893
+    V_0_11 MUT_0_11 1
+    W_0_11 SU_0_11 -1
+    W_0_11 RD_0_11 -80
+    W_0_11 MDT_0_11 1
+    P_0_11 OBJ 66.432506
+    P_0_11 DEM_11 1
+    P_0_11 PMAX_0_11 1
+    P_0_11 PMIN_0_11 1
+    P_0_11 RU_0_11 1
+    P_0_11 RD_0_11 -1
+    MARKER 'MARKER' 'INTORG'
+    U_1_11 OBJ 108.47132
+    U_1_11 RES_11 50
+    U_1_11 PMAX_1_11 -50
+    U_1_11 PMIN_1_11 -17.31785
+    U_1_11 SU_1_11 -1
+    U_1_11 RD_1_11 -30.343153
+    U_1_11 MUT_1_11 -1
+    U_1_11 MDT_1_11 1
+    MARKER 'MARKER' 'INTEND'
+    V_1_11 OBJ 2822.314
+    V_1_11 SU_1_11 1
+    V_1_11 RU_1_11 -17.31785
+    V_1_11 MUT_1_11 1
+    W_1_11 SU_1_11 -1
+    W_1_11 RD_1_11 -50
+    W_1_11 MDT_1_11 1
+    P_1_11 OBJ 71.759047
+    P_1_11 DEM_11 1
+    P_1_11 PMAX_1_11 1
+    P_1_11 PMIN_1_11 1
+    P_1_11 RU_1_11 1
+    P_1_11 RD_1_11 -1
+    MARKER 'MARKER' 'INTORG'
+    U_2_11 OBJ 156.18311
+    U_2_11 RES_11 80
+    U_2_11 PMAX_2_11 -80
+    U_2_11 PMIN_2_11 -30.187682
+    U_2_11 SU_2_11 -1
+    U_2_11 RD_2_11 -44.785476
+    U_2_11 MUT_2_11 -1
+    U_2_11 MDT_2_11 1
+    MARKER 'MARKER' 'INTEND'
+    V_2_11 OBJ 1707.1461
+    V_2_11 SU_2_11 1
+    V_2_11 RU_2_11 -30.187682
+    V_2_11 MUT_2_11 1
+    W_2_11 SU_2_11 -1
+    W_2_11 RD_2_11 -80
+    W_2_11 MDT_2_11 1
+    P_2_11 OBJ 25.480289
+    P_2_11 DEM_11 1
+    P_2_11 PMAX_2_11 1
+    P_2_11 PMIN_2_11 1
+    P_2_11 RU_2_11 1
+    P_2_11 RD_2_11 -1
+    MARKER 'MARKER' 'INTORG'
+    U_3_11 OBJ 493.66545
+    U_3_11 RES_11 150
+    U_3_11 PMAX_3_11 -150
+    U_3_11 PMIN_3_11 -62.663367
+    U_3_11 SU_3_11 -1
+    U_3_11 RD_3_11 -78.171575
+    U_3_11 MUT_3_11 -1
+    U_3_11 MDT_3_11 1
+    MARKER 'MARKER' 'INTEND'
+    V_3_11 OBJ 11452.503
+    V_3_11 SU_3_11 1
+    V_3_11 RU_3_11 -62.663367
+    V_3_11 MUT_3_11 1
+    W_3_11 SU_3_11 -1
+    W_3_11 RD_3_11 -150
+    W_3_11 MDT_3_11 1
+    P_3_11 OBJ 38.743324
+    P_3_11 DEM_11 1
+    P_3_11 PMAX_3_11 1
+    P_3_11 PMIN_3_11 1
+    P_3_11 RU_3_11 1
+    P_3_11 RD_3_11 -1
+    MARKER 'MARKER' 'INTORG'
+    U_4_11 OBJ 425.78765
+    U_4_11 RES_11 400
+    U_4_11 PMAX_4_11 -400
+    U_4_11 PMIN_4_11 -135.15242
+    U_4_11 SU_4_11 -1
+    U_4_11 RD_4_11 -209.03269
+    U_4_11 MUT_4_11 -1
+    U_4_11 MDT_4_11 1
+    MARKER 'MARKER' 'INTEND'
+    V_4_11 OBJ 28101.871
+    V_4_11 SU_4_11 1
+    V_4_11 RU_4_11 -135.15242
+    V_4_11 MUT_4_11 1
+    W_4_11 SU_4_11 -1
+    W_4_11 RD_4_11 -400
+    W_4_11 MDT_4_11 1
+    P_4_11 OBJ 28.040173
+    P_4_11 DEM_11 1
+    P_4_11 PMAX_4_11 1
+    P_4_11 PMIN_4_11 1
+    P_4_11 RU_4_11 1
+    P_4_11 RD_4_11 -1
+    MARKER 'MARKER' 'INTORG'
+    U_5_11 OBJ 599.42567
+    U_5_11 RES_11 300
+    U_5_11 PMAX_5_11 -300
+    U_5_11 PMIN_5_11 -137.39519
+    U_5_11 SU_5_11 -1
+    U_5_11 RD_5_11 -175.34301
+    U_5_11 MUT_5_11 -1
+    U_5_11 MDT_5_11 1
+    MARKER 'MARKER' 'INTEND'
+    V_5_11 OBJ 18986.719
+    V_5_11 SU_5_11 1
+    V_5_11 RU_5_11 -137.39519
+    V_5_11 MUT_5_11 1
+    W_5_11 SU_5_11 -1
+    W_5_11 RD_5_11 -300
+    W_5_11 MDT_5_11 1
+    P_5_11 OBJ 20.440048
+    P_5_11 DEM_11 1
+    P_5_11 PMAX_5_11 1
+    P_5_11 PMIN_5_11 1
+    P_5_11 RU_5_11 1
+    P_5_11 RD_5_11 -1
+    MARKER 'MARKER' 'INTORG'
+    U_6_11 OBJ 764.54809
+    U_6_11 RES_11 200
+    U_6_11 PMAX_6_11 -200
+    U_6_11 PMIN_6_11 -98.407084
+    U_6_11 SU_6_11 -1
+    U_6_11 RD_6_11 -128.26304
+    U_6_11 MUT_6_11 -1
+    U_6_11 MDT_6_11 1
+    MARKER 'MARKER' 'INTEND'
+    V_6_11 OBJ 8720.2435
+    V_6_11 SU_6_11 1
+    V_6_11 RU_6_11 -98.407084
+    V_6_11 MUT_6_11 1
+    W_6_11 SU_6_11 -1
+    W_6_11 RD_6_11 -200
+    W_6_11 MDT_6_11 1
+    P_6_11 OBJ 37.471293
+    P_6_11 DEM_11 1
+    P_6_11 PMAX_6_11 1
+    P_6_11 PMIN_6_11 1
+    P_6_11 RU_6_11 1
+    P_6_11 RD_6_11 -1
+    MARKER 'MARKER' 'INTORG'
+    U_7_11 OBJ 396.95944
+    U_7_11 RES_11 150
+    U_7_11 PMAX_7_11 -150
+    U_7_11 PMIN_7_11 -48.64413
+    U_7_11 SU_7_11 -1
+    U_7_11 RD_7_11 -85.46915
+    U_7_11 MUT_7_11 -1
+    U_7_11 MDT_7_11 1
+    MARKER 'MARKER' 'INTEND'
+    V_7_11 OBJ 9327.3669
+    V_7_11 SU_7_11 1
+    V_7_11 RU_7_11 -48.64413
+    V_7_11 MUT_7_11 1
+    W_7_11 SU_7_11 -1
+    W_7_11 RD_7_11 -150
+    W_7_11 MDT_7_11 1
+    P_7_11 OBJ 22.785333
+    P_7_11 DEM_11 1
+    P_7_11 PMAX_7_11 1
+    P_7_11 PMIN_7_11 1
+    P_7_11 RU_7_11 1
+    P_7_11 RD_7_11 -1
+    SHED_11 OBJ 1000
+    SHED_11 DEM_11 1
+    SHED_11 RES_11 1.1
+RHS
+    RHS DEM_0 564.47525
+    RHS RES_0 620.92278
+    RHS MDT_0_0 1
+    RHS MDT_1_0 1
+    RHS MDT_2_0 1
+    RHS MDT_3_0 1
+    RHS MDT_4_0 1
+    RHS SU_5_0 -1
+    RHS MDT_5_0 1
+    RHS MDT_6_0 1
+    RHS SU_7_0 -1
+    RHS MDT_7_0 1
+    RHS DEM_1 579.70416
+    RHS RES_1 637.67458
+    RHS MDT_0_1 1
+    RHS MDT_1_1 1
+    RHS MDT_2_1 1
+    RHS MDT_3_1 1
+    RHS MDT_4_1 1
+    RHS MDT_5_1 1
+    RHS MDT_6_1 1
+    RHS MDT_7_1 1
+    RHS DEM_2 565.18093
+    RHS RES_2 621.69902
+    RHS MDT_0_2 1
+    RHS MDT_1_2 1
+    RHS MDT_2_2 1
+    RHS MDT_3_2 1
+    RHS MDT_4_2 1
+    RHS MDT_5_2 1
+    RHS MDT_6_2 1
+    RHS MDT_7_2 1
+    RHS DEM_3 557.97959
+    RHS RES_3 613.77755
+    RHS MDT_0_3 1
+    RHS MDT_1_3 1
+    RHS MDT_2_3 1
+    RHS MDT_3_3 1
+    RHS MDT_4_3 1
+    RHS MDT_5_3 1
+    RHS MDT_6_3 1
+    RHS MDT_7_3 1
+    RHS DEM_4 563.41871
+    RHS RES_4 619.76059
+    RHS MDT_0_4 1
+    RHS MDT_1_4 1
+    RHS MDT_2_4 1
+    RHS MDT_3_4 1
+    RHS MDT_4_4 1
+    RHS MDT_5_4 1
+    RHS MDT_6_4 1
+    RHS MDT_7_4 1
+    RHS DEM_5 537.46803
+    RHS RES_5 591.21483
+    RHS MDT_0_5 1
+    RHS MDT_1_5 1
+    RHS MDT_2_5 1
+    RHS MDT_3_5 1
+    RHS MDT_4_5 1
+    RHS MDT_5_5 1
+    RHS MDT_6_5 1
+    RHS MDT_7_5 1
+    RHS DEM_6 538.25268
+    RHS RES_6 592.07795
+    RHS MDT_0_6 1
+    RHS MDT_1_6 1
+    RHS MDT_2_6 1
+    RHS MDT_3_6 1
+    RHS MDT_4_6 1
+    RHS MDT_5_6 1
+    RHS MDT_6_6 1
+    RHS MDT_7_6 1
+    RHS DEM_7 697.33293
+    RHS RES_7 767.06623
+    RHS MDT_0_7 1
+    RHS MDT_1_7 1
+    RHS MDT_2_7 1
+    RHS MDT_3_7 1
+    RHS MDT_4_7 1
+    RHS MDT_5_7 1
+    RHS MDT_6_7 1
+    RHS MDT_7_7 1
+    RHS DEM_8 833.12733
+    RHS RES_8 916.44007
+    RHS MDT_0_8 1
+    RHS MDT_1_8 1
+    RHS MDT_2_8 1
+    RHS MDT_3_8 1
+    RHS MDT_4_8 1
+    RHS MDT_5_8 1
+    RHS MDT_6_8 1
+    RHS MDT_7_8 1
+    RHS DEM_9 898.59355
+    RHS RES_9 988.4529
+    RHS MDT_0_9 1
+    RHS MDT_1_9 1
+    RHS MDT_2_9 1
+    RHS MDT_3_9 1
+    RHS MDT_4_9 1
+    RHS MDT_5_9 1
+    RHS MDT_6_9 1
+    RHS MDT_7_9 1
+    RHS DEM_10 953.37809
+    RHS RES_10 1048.7159
+    RHS MDT_0_10 1
+    RHS MDT_1_10 1
+    RHS MDT_2_10 1
+    RHS MDT_3_10 1
+    RHS MDT_4_10 1
+    RHS MDT_5_10 1
+    RHS MDT_6_10 1
+    RHS MDT_7_10 1
+    RHS DEM_11 976.44488
+    RHS RES_11 1074.0894
+    RHS MDT_0_11 1
+    RHS MDT_1_11 1
+    RHS MDT_2_11 1
+    RHS MDT_3_11 1
+    RHS MDT_4_11 1
+    RHS MDT_5_11 1
+    RHS MDT_6_11 1
+    RHS MDT_7_11 1
+BOUNDS
+ UP BND U_0_0 1
+ UP BND V_0_0 1
+ UP BND W_0_0 1
+ UP BND P_0_0 80
+ UP BND U_1_0 1
+ UP BND V_1_0 1
+ UP BND W_1_0 1
+ UP BND P_1_0 50
+ UP BND U_2_0 1
+ UP BND V_2_0 1
+ UP BND W_2_0 1
+ UP BND P_2_0 80
+ UP BND U_3_0 1
+ UP BND V_3_0 1
+ UP BND W_3_0 1
+ UP BND P_3_0 150
+ UP BND U_4_0 1
+ UP BND V_4_0 1
+ UP BND W_4_0 1
+ UP BND P_4_0 400
+ UP BND U_5_0 1
+ UP BND V_5_0 1
+ UP BND W_5_0 1
+ UP BND P_5_0 300
+ UP BND U_6_0 1
+ UP BND V_6_0 1
+ UP BND W_6_0 1
+ UP BND P_6_0 200
+ UP BND U_7_0 1
+ UP BND V_7_0 1
+ UP BND W_7_0 1
+ UP BND P_7_0 150
+ UP BND SHED_0 564.47525
+ UP BND U_0_1 1
+ UP BND V_0_1 1
+ UP BND W_0_1 1
+ UP BND P_0_1 80
+ UP BND U_1_1 1
+ UP BND V_1_1 1
+ UP BND W_1_1 1
+ UP BND P_1_1 50
+ UP BND U_2_1 1
+ UP BND V_2_1 1
+ UP BND W_2_1 1
+ UP BND P_2_1 80
+ UP BND U_3_1 1
+ UP BND V_3_1 1
+ UP BND W_3_1 1
+ UP BND P_3_1 150
+ UP BND U_4_1 1
+ UP BND V_4_1 1
+ UP BND W_4_1 1
+ UP BND P_4_1 400
+ UP BND U_5_1 1
+ UP BND V_5_1 1
+ UP BND W_5_1 1
+ UP BND P_5_1 300
+ UP BND U_6_1 1
+ UP BND V_6_1 1
+ UP BND W_6_1 1
+ UP BND P_6_1 200
+ UP BND U_7_1 1
+ UP BND V_7_1 1
+ UP BND W_7_1 1
+ UP BND P_7_1 150
+ UP BND SHED_1 579.70416
+ UP BND U_0_2 1
+ UP BND V_0_2 1
+ UP BND W_0_2 1
+ UP BND P_0_2 80
+ UP BND U_1_2 1
+ UP BND V_1_2 1
+ UP BND W_1_2 1
+ UP BND P_1_2 50
+ UP BND U_2_2 1
+ UP BND V_2_2 1
+ UP BND W_2_2 1
+ UP BND P_2_2 80
+ UP BND U_3_2 1
+ UP BND V_3_2 1
+ UP BND W_3_2 1
+ UP BND P_3_2 150
+ UP BND U_4_2 1
+ UP BND V_4_2 1
+ UP BND W_4_2 1
+ UP BND P_4_2 400
+ UP BND U_5_2 1
+ UP BND V_5_2 1
+ UP BND W_5_2 1
+ UP BND P_5_2 300
+ UP BND U_6_2 1
+ UP BND V_6_2 1
+ UP BND W_6_2 1
+ UP BND P_6_2 200
+ UP BND U_7_2 1
+ UP BND V_7_2 1
+ UP BND W_7_2 1
+ UP BND P_7_2 150
+ UP BND SHED_2 565.18093
+ UP BND U_0_3 1
+ UP BND V_0_3 1
+ UP BND W_0_3 1
+ UP BND P_0_3 80
+ UP BND U_1_3 1
+ UP BND V_1_3 1
+ UP BND W_1_3 1
+ UP BND P_1_3 50
+ UP BND U_2_3 1
+ UP BND V_2_3 1
+ UP BND W_2_3 1
+ UP BND P_2_3 80
+ UP BND U_3_3 1
+ UP BND V_3_3 1
+ UP BND W_3_3 1
+ UP BND P_3_3 150
+ UP BND U_4_3 1
+ UP BND V_4_3 1
+ UP BND W_4_3 1
+ UP BND P_4_3 400
+ UP BND U_5_3 1
+ UP BND V_5_3 1
+ UP BND W_5_3 1
+ UP BND P_5_3 300
+ UP BND U_6_3 1
+ UP BND V_6_3 1
+ UP BND W_6_3 1
+ UP BND P_6_3 200
+ UP BND U_7_3 1
+ UP BND V_7_3 1
+ UP BND W_7_3 1
+ UP BND P_7_3 150
+ UP BND SHED_3 557.97959
+ UP BND U_0_4 1
+ UP BND V_0_4 1
+ UP BND W_0_4 1
+ UP BND P_0_4 80
+ UP BND U_1_4 1
+ UP BND V_1_4 1
+ UP BND W_1_4 1
+ UP BND P_1_4 50
+ UP BND U_2_4 1
+ UP BND V_2_4 1
+ UP BND W_2_4 1
+ UP BND P_2_4 80
+ UP BND U_3_4 1
+ UP BND V_3_4 1
+ UP BND W_3_4 1
+ UP BND P_3_4 150
+ UP BND U_4_4 1
+ UP BND V_4_4 1
+ UP BND W_4_4 1
+ UP BND P_4_4 400
+ UP BND U_5_4 1
+ UP BND V_5_4 1
+ UP BND W_5_4 1
+ UP BND P_5_4 300
+ UP BND U_6_4 1
+ UP BND V_6_4 1
+ UP BND W_6_4 1
+ UP BND P_6_4 200
+ UP BND U_7_4 1
+ UP BND V_7_4 1
+ UP BND W_7_4 1
+ UP BND P_7_4 150
+ UP BND SHED_4 563.41871
+ UP BND U_0_5 1
+ UP BND V_0_5 1
+ UP BND W_0_5 1
+ UP BND P_0_5 80
+ UP BND U_1_5 1
+ UP BND V_1_5 1
+ UP BND W_1_5 1
+ UP BND P_1_5 50
+ UP BND U_2_5 1
+ UP BND V_2_5 1
+ UP BND W_2_5 1
+ UP BND P_2_5 80
+ UP BND U_3_5 1
+ UP BND V_3_5 1
+ UP BND W_3_5 1
+ UP BND P_3_5 150
+ UP BND U_4_5 1
+ UP BND V_4_5 1
+ UP BND W_4_5 1
+ UP BND P_4_5 400
+ UP BND U_5_5 1
+ UP BND V_5_5 1
+ UP BND W_5_5 1
+ UP BND P_5_5 300
+ UP BND U_6_5 1
+ UP BND V_6_5 1
+ UP BND W_6_5 1
+ UP BND P_6_5 200
+ UP BND U_7_5 1
+ UP BND V_7_5 1
+ UP BND W_7_5 1
+ UP BND P_7_5 150
+ UP BND SHED_5 537.46803
+ UP BND U_0_6 1
+ UP BND V_0_6 1
+ UP BND W_0_6 1
+ UP BND P_0_6 80
+ UP BND U_1_6 1
+ UP BND V_1_6 1
+ UP BND W_1_6 1
+ UP BND P_1_6 50
+ UP BND U_2_6 1
+ UP BND V_2_6 1
+ UP BND W_2_6 1
+ UP BND P_2_6 80
+ UP BND U_3_6 1
+ UP BND V_3_6 1
+ UP BND W_3_6 1
+ UP BND P_3_6 150
+ UP BND U_4_6 1
+ UP BND V_4_6 1
+ UP BND W_4_6 1
+ UP BND P_4_6 400
+ UP BND U_5_6 1
+ UP BND V_5_6 1
+ UP BND W_5_6 1
+ UP BND P_5_6 300
+ UP BND U_6_6 1
+ UP BND V_6_6 1
+ UP BND W_6_6 1
+ UP BND P_6_6 200
+ UP BND U_7_6 1
+ UP BND V_7_6 1
+ UP BND W_7_6 1
+ UP BND P_7_6 150
+ UP BND SHED_6 538.25268
+ UP BND U_0_7 1
+ UP BND V_0_7 1
+ UP BND W_0_7 1
+ UP BND P_0_7 80
+ UP BND U_1_7 1
+ UP BND V_1_7 1
+ UP BND W_1_7 1
+ UP BND P_1_7 50
+ UP BND U_2_7 1
+ UP BND V_2_7 1
+ UP BND W_2_7 1
+ UP BND P_2_7 80
+ UP BND U_3_7 1
+ UP BND V_3_7 1
+ UP BND W_3_7 1
+ UP BND P_3_7 150
+ UP BND U_4_7 1
+ UP BND V_4_7 1
+ UP BND W_4_7 1
+ UP BND P_4_7 400
+ UP BND U_5_7 1
+ UP BND V_5_7 1
+ UP BND W_5_7 1
+ UP BND P_5_7 300
+ UP BND U_6_7 1
+ UP BND V_6_7 1
+ UP BND W_6_7 1
+ UP BND P_6_7 200
+ UP BND U_7_7 1
+ UP BND V_7_7 1
+ UP BND W_7_7 1
+ UP BND P_7_7 150
+ UP BND SHED_7 697.33293
+ UP BND U_0_8 1
+ UP BND V_0_8 1
+ UP BND W_0_8 1
+ UP BND P_0_8 80
+ UP BND U_1_8 1
+ UP BND V_1_8 1
+ UP BND W_1_8 1
+ UP BND P_1_8 50
+ UP BND U_2_8 1
+ UP BND V_2_8 1
+ UP BND W_2_8 1
+ UP BND P_2_8 80
+ UP BND U_3_8 1
+ UP BND V_3_8 1
+ UP BND W_3_8 1
+ UP BND P_3_8 150
+ UP BND U_4_8 1
+ UP BND V_4_8 1
+ UP BND W_4_8 1
+ UP BND P_4_8 400
+ UP BND U_5_8 1
+ UP BND V_5_8 1
+ UP BND W_5_8 1
+ UP BND P_5_8 300
+ UP BND U_6_8 1
+ UP BND V_6_8 1
+ UP BND W_6_8 1
+ UP BND P_6_8 200
+ UP BND U_7_8 1
+ UP BND V_7_8 1
+ UP BND W_7_8 1
+ UP BND P_7_8 150
+ UP BND SHED_8 833.12733
+ UP BND U_0_9 1
+ UP BND V_0_9 1
+ UP BND W_0_9 1
+ UP BND P_0_9 80
+ UP BND U_1_9 1
+ UP BND V_1_9 1
+ UP BND W_1_9 1
+ UP BND P_1_9 50
+ UP BND U_2_9 1
+ UP BND V_2_9 1
+ UP BND W_2_9 1
+ UP BND P_2_9 80
+ UP BND U_3_9 1
+ UP BND V_3_9 1
+ UP BND W_3_9 1
+ UP BND P_3_9 150
+ UP BND U_4_9 1
+ UP BND V_4_9 1
+ UP BND W_4_9 1
+ UP BND P_4_9 400
+ UP BND U_5_9 1
+ UP BND V_5_9 1
+ UP BND W_5_9 1
+ UP BND P_5_9 300
+ UP BND U_6_9 1
+ UP BND V_6_9 1
+ UP BND W_6_9 1
+ UP BND P_6_9 200
+ UP BND U_7_9 1
+ UP BND V_7_9 1
+ UP BND W_7_9 1
+ UP BND P_7_9 150
+ UP BND SHED_9 898.59355
+ UP BND U_0_10 1
+ UP BND V_0_10 1
+ UP BND W_0_10 1
+ UP BND P_0_10 80
+ UP BND U_1_10 1
+ UP BND V_1_10 1
+ UP BND W_1_10 1
+ UP BND P_1_10 50
+ UP BND U_2_10 1
+ UP BND V_2_10 1
+ UP BND W_2_10 1
+ UP BND P_2_10 80
+ UP BND U_3_10 1
+ UP BND V_3_10 1
+ UP BND W_3_10 1
+ UP BND P_3_10 150
+ UP BND U_4_10 1
+ UP BND V_4_10 1
+ UP BND W_4_10 1
+ UP BND P_4_10 400
+ UP BND U_5_10 1
+ UP BND V_5_10 1
+ UP BND W_5_10 1
+ UP BND P_5_10 300
+ UP BND U_6_10 1
+ UP BND V_6_10 1
+ UP BND W_6_10 1
+ UP BND P_6_10 200
+ UP BND U_7_10 1
+ UP BND V_7_10 1
+ UP BND W_7_10 1
+ UP BND P_7_10 150
+ UP BND SHED_10 953.37809
+ UP BND U_0_11 1
+ UP BND V_0_11 1
+ UP BND W_0_11 1
+ UP BND P_0_11 80
+ UP BND U_1_11 1
+ UP BND V_1_11 1
+ UP BND W_1_11 1
+ UP BND P_1_11 50
+ UP BND U_2_11 1
+ UP BND V_2_11 1
+ UP BND W_2_11 1
+ UP BND P_2_11 80
+ UP BND U_3_11 1
+ UP BND V_3_11 1
+ UP BND W_3_11 1
+ UP BND P_3_11 150
+ UP BND U_4_11 1
+ UP BND V_4_11 1
+ UP BND W_4_11 1
+ UP BND P_4_11 400
+ UP BND U_5_11 1
+ UP BND V_5_11 1
+ UP BND W_5_11 1
+ UP BND P_5_11 300
+ UP BND U_6_11 1
+ UP BND V_6_11 1
+ UP BND W_6_11 1
+ UP BND P_6_11 200
+ UP BND U_7_11 1
+ UP BND V_7_11 1
+ UP BND W_7_11 1
+ UP BND P_7_11 150
+ UP BND SHED_11 976.44488
+ENDATA

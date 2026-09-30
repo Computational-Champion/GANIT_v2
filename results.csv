@@ -1,0 +1,3 @@
+instance,type,rows,cols,nnz,ganit_status,ganit_obj,ganit_time,ganit_iters,glpk_status,glpk_obj,glpk_time,glpk_relobj
+bgetam,LP,400,688,2409,PRIMAL_INFEASIBLE,-250.0050741939,0.0347,4736,Infeasible,nan,0.01361536979675293,nan
+dcmulti,MILP,290,548,1315,OPTIMAL,188188.0,0.3405,77,Optimal,188182.0,0.5699784755706787,3.188385773422679e-05
